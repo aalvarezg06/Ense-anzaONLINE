@@ -1,0 +1,8 @@
+{
+  "label": "UT02: Estructuras de Control",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Lógica de control: sentencias condicionales y bucles iterativos."
+  }
+}

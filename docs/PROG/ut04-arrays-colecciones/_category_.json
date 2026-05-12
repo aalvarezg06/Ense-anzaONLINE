@@ -1,0 +1,8 @@
+{
+  "label": "UT04: Arrays y Colecciones",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Gestión de múltiples datos: arrays y el framework de Colecciones de Java."
+  }
+}

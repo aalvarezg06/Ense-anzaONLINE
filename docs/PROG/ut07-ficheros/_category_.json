@@ -1,0 +1,8 @@
+{
+  "label": "UT07: Ficheros",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "Persistencia de datos en ficheros de texto y binarios."
+  }
+}

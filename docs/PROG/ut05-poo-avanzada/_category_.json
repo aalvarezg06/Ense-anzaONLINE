@@ -1,0 +1,8 @@
+{
+  "label": "UT05: POO Avanzada",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Conceptos avanzados de POO: herencia, polimorfismo e interfaces."
+  }
+}
