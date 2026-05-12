@@ -1,0 +1,8 @@
+{
+  "label": "UT05: Bases de Datos NoSQL (MongoDB)",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Estudio de sistemas NoSQL centrados en el modelo de documentos con MongoDB."
+  }
+}

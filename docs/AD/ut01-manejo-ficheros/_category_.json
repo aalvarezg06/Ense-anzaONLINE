@@ -1,0 +1,8 @@
+{
+  "label": "UT01: Manejo de Ficheros",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Estudio de la persistencia de información en ficheros de texto, binarios y XML."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "UT03: Aprendizaje Supervisado - Clasificación",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Algoritmos para la predicción de categorías y clases."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "UT01: Programación Multiproceso",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Estudio de la creación y gestión de procesos independientes en el sistema operativo."
+  }
+}

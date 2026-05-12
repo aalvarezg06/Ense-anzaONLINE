@@ -1,0 +1,8 @@
+{
+  "label": "UT03: Herramientas de Mapeo (ORM)",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Uso de Hibernate y JPA para automatizar la persistencia de objetos en bases de datos relacionales."
+  }
+}

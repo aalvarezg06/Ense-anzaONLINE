@@ -1,0 +1,8 @@
+{
+  "label": "UT05: Programación Segura",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Implementación de seguridad, criptografía y protocolos seguros en aplicaciones Java."
+  }
+}

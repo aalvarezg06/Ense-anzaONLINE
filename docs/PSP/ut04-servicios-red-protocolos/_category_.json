@@ -1,0 +1,8 @@
+{
+  "label": "UT04: Servicios en Red",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Implementación y consumo de servicios estándar de red y APIs REST."
+  }
+}

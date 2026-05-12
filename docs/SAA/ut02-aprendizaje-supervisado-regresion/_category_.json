@@ -1,0 +1,8 @@
+{
+  "label": "UT02: Aprendizaje Supervisado - Regresión",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Algoritmos para la predicción de variables numéricas continuas."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "UT02: Manejo de Conectores (JDBC)",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Conectividad entre aplicaciones Java y bases de datos relacionales mediante JDBC."
+  }
+}

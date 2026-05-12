@@ -1,0 +1,8 @@
+{
+  "label": "UT03: Comunicaciones en Red (Sockets)",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Estudio de los protocolos TCP y UDP y su implementación mediante Sockets."
+  }
+}
