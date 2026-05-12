@@ -21,8 +21,8 @@ const config = {
 
   // Set the production url of your site here
   url: 'https://aalvareg06.github.io',
-  
-    // Set the /<baseUrl>/ pathname under which your site is served
+
+  // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/Ense-anzaONLINE/',
 
@@ -113,6 +113,13 @@ const config = {
             sidebarId: 'saaSidebar',
             position: 'left',
             label: 'Sistemas de Aprendizaje Automatico',
+          },
+
+          {
+            type: 'docSidebar',
+            sidebarId: 'edSidebar',
+            position: 'left',
+            label: 'Entornos de Desarrollo',
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {

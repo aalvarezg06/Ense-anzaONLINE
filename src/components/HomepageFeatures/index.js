@@ -33,6 +33,16 @@ const FeatureList = [
       </>
     ),
   },
+  {
+    title: 'Entornos de Desarrollo',
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    description: (
+      <>
+        Extend or customize your website layout by reusing React. Docusaurus
+        be extended while reusing the same header and footer.
+      </>
+    ),
+  },
 ];
 
 function Feature({ Svg, title, description }) {
