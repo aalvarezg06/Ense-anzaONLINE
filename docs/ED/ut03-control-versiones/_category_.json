@@ -1,0 +1,8 @@
+{
+  "label": "UT03: Control de Versiones con Git",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Gestión de código fuente mediante Git y GitHub."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "UT06: Calidad, Pruebas y Documentación",
+  "position": 6,
+  "link": {
+    "type": "generated-index",
+    "description": "Garantía de calidad mediante pruebas unitarias, refactorización y Javadoc."
+  }
+}
