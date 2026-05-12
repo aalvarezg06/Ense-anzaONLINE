@@ -1,18 +1,73 @@
 ---
-title: "Tutorial: Modelado con StarUML"
+title: "Tutorial: Creación de Diagramas de Clases con Mermaid"
 sidebar_position: 2
-description: Guía práctica para crear tu primer diagrama de clases.
+description: Guía práctica para generar diagramas UML profesionales directamente desde tu editor de texto.
 ---
 
-# Tutorial: Modelado con StarUML
+En el paradigma **Docs-as-Code**, preferimos herramientas que generen diagramas a partir de texto. **Mermaid** es la opción estándar soportada por GitHub y Docusaurus.
 
-Aprende a pasar tus ideas a un modelo visual estándar.
+## Paso 1: Estructura Básica de una Clase
 
-## Pasos para crear un diagrama de clases
-1. **Crear Modelo**: `File -> New From Template -> UMLMinimal`.
-2. **Añadir Clases**: Usar la barra de herramientas lateral.
-3. **Definir Atributos**: Clic derecho en la clase -> `Add -> Attribute`.
-4. **Establecer Relaciones**: Arrastrar desde una clase a otra usando la herramienta de asociación o herencia.
+Para definir una clase en Mermaid, usamos la palabra clave `class`.
 
-## Exportación
-- Exportar como imagen (PNG/JPG) para incluir en la documentación del proyecto.
+```mermaid title="Ejemplo básico"
+classDiagram
+    class Cliente {
+        +String nombre
+        +String email
+        -double saldo
+        +realizarPedido()
+    }
+```
+
+**Sintaxis utilizada**:
+-   `classDiagram`: Indica el tipo de diagrama.
+-   `+`: Público.
+-   `-`: Privado.
+
+## Paso 2: Representación de Relaciones
+
+Mermaid utiliza diferentes flechas para los tipos de relaciones:
+
+| Relación | Sintaxis | Símbolo |
+| :--- | :--- | :--- |
+| **Herencia** | `<|--` | Flecha vacía |
+| **Composición** | `*--` | Rombo lleno |
+| **Agregación** | `o--` | Rombo vacío |
+| **Asociación** | `-->` | Flecha abierta |
+
+## Paso 3: Ejercicio Práctico - Sistema de Biblioteca
+
+Vamos a modelar un sistema sencillo. Sigue estos pasos para construir el código Mermaid:
+
+1.  Define una clase `Libro` con atributos privados `titulo`, `autor` e `isbn`.
+2.  Define una clase `Socio` que pueda `pedirPrestado()`.
+3.  Establece una relación de **Asociación** donde un `Socio` puede tener muchos `Libros`.
+
+```mermaid title="Resultado Final"
+classDiagram
+    class Socio {
+        +int idSocio
+        +String nombre
+        +pedirPrestado()
+        +devolverLibro()
+    }
+    class Libro {
+        -String isbn
+        -String titulo
+        -String autor
+        +estaDisponible() bool
+    }
+    Socio "1" --> "*" Libro : prestamo
+```
+
+## Paso 4: Exportación y Herramientas Externas
+
+Aunque Mermaid es excelente para documentación, a veces necesitarás herramientas visuales más potentes:
+
+1.  **Mermaid Live Editor**: Para previsualizar y exportar a PNG/SVG.
+2.  **StarUML**: Software profesional (descargable) para modelado avanzado.
+3.  **PlantUML**: Otra alternativa basada en texto muy común en el entorno Java.
+
+> [!IMPORTANT]
+> Mantén tus diagramas actualizados. Si cambias el nombre de una clase en el código, asegúrate de reflejarlo en la documentación.
