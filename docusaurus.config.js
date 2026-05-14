@@ -121,6 +121,18 @@ const config = {
             position: 'left',
             label: 'Entornos de Desarrollo',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'pri2Sidebar',
+            position: 'left',
+            label: '2º Primaria',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'progSidebar',
+            position: 'left',
+            label: 'Programación',
+          },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/facebook/docusaurus',

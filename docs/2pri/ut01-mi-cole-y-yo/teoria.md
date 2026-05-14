@@ -6,7 +6,7 @@ description: Una bienvenida mágica a nuestro curso de segundo de primaria.
 
 ¡Hola! Qué alegría volver a vernos. Este año va a ser **increíble**. En nuestra clase de **2º de Primaria** vamos a descubrir un montón de cosas nuevas.
 
-![Bienvenidos a 2º](/home/antonio/.gemini/antigravity/brain/6affa147-56b3-4eac-afe1-ff7f024eb519/bienvenida_segundo_primaria_1778791753927.png)
+![Bienvenidos a 2º](/img/2pri/bienvenida_segundo_primaria_1778791753927.png)
 
 ## Nuestra Clase es un Equipo
 

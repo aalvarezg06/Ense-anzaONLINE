@@ -1,7 +1,7 @@
 ---
 title: "Teoría: Diagramas de Comportamiento UML"
 sidebar_position: 1
-description: Modelado de la dinámica y funcionalidad del sistema: Casos de Uso, Secuencia y Actividad.
+description: "Modelado de la dinámica y funcionalidad del sistema: Casos de Uso, Secuencia y Actividad."
 ---
 
 Mientras que el diagrama de clases muestra *qué hay* en el sistema, los diagramas de comportamiento muestran *qué ocurre* y cómo interactúan las partes.

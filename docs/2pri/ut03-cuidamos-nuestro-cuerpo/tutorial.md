@@ -19,7 +19,7 @@ Coge una cinta métrica con ayuda de un compañero:
 ### Paso 2: ¿Quién es más alto?
 Compara los dos números. Recuerda usar los signos:
 *   **>** (Mayor que)
-*   **<** (Menor que)
+*   **&lt;** (Menor que)
 
 :::info Ejemplo
 Si yo mido 125 cm y mi amigo 122 cm, entonces **125 > 122**.

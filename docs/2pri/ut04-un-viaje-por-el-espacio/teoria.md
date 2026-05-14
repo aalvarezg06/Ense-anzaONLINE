@@ -6,7 +6,7 @@ description: Viajamos más allá de las nubes para conocer los planetas y las es
 
 ¿Alguna vez has mirado al cielo por la noche? ¡Es enorme! Hoy vamos a subirnos a una nave espacial para conocer el **Universo**.
 
-![Nuestro Sistema Solar](/home/antonio/.gemini/antigravity/brain/6affa147-56b3-4eac-afe1-ff7f024eb519/espacio_sistema_solar_infantil_1778792425405.png)
+![Nuestro Sistema Solar](/img/2pri/espacio_sistema_solar_infantil_1778792425405.png)
 
 ## El Sol: Nuestra Gran Estrella
 

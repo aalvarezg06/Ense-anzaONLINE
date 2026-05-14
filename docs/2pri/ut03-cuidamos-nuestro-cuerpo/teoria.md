@@ -6,7 +6,7 @@ description: Descubrimos cómo funciona nuestro cuerpo y cómo mantenerlo sano y
 
 Nuestro cuerpo es como una **máquina perfecta**. ¡Y nosotros somos los encargados de cuidarla!
 
-![Hábitos Saludables](/home/antonio/.gemini/antigravity/brain/6affa147-56b3-4eac-afe1-ff7f024eb519/cuidamos_nuestro_cuerpo_saludable_1778792356060.png)
+![Hábitos Saludables](/img/2pri/cuidamos_nuestro_cuerpo_saludable_1778792356060.png)
 
 ## ¿Qué hay dentro de nosotros?
 

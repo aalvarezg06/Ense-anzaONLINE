@@ -6,7 +6,7 @@ description: Descubrimos cómo funcionan los comercios, el dinero y los servicio
 
 ¡Hoy vamos de compras! En nuestro barrio hay muchos sitios donde podemos conseguir lo que necesitamos. ¿Sabes cómo se llaman?
 
-![El mercado de mi barrio](/home/antonio/.gemini/antigravity/brain/6affa147-56b3-4eac-afe1-ff7f024eb519/mercado_barrio_infantil_extremadura_1778793862701.png)
+![El mercado de mi barrio](/img/2pri/mercado_barrio_infantil_extremadura_1778793862701.png)
 
 ## Los Comercios
 

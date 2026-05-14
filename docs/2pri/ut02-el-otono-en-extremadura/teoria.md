@@ -6,7 +6,7 @@ description: Descubrimos cómo cambia nuestra dehesa extremeña con la llegada d
 
 ¡El otoño ha llegado a Extremadura! ¿Te has fijado en cómo cambian los árboles? Nuestra **dehesa** se viste de colores amarillos, naranjas y marrones.
 
-![Otoño en la Dehesa](/home/antonio/.gemini/antigravity/brain/6affa147-56b3-4eac-afe1-ff7f024eb519/otono_extremadura_dehesa_1778792285285.png)
+![Otoño en la Dehesa](/img/2pri/otono_extremadura_dehesa_1778792285285.png)
 
 ## ¿Qué pasa en el otoño?
 

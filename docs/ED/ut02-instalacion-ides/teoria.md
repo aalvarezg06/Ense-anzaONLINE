@@ -1,7 +1,7 @@
 ---
 title: "Teoría: Instalación y Configuración de IDEs"
 sidebar_position: 1
-description: Entendiendo las herramientas fundamentales del desarrollador: IDEs, JDKs y gestores de dependencias.
+description: "Entendiendo las herramientas fundamentales del desarrollador: IDEs, JDKs y gestores de dependencias."
 ---
 
 El entorno de desarrollo es el "taller" del programador. Elegir y configurar correctamente estas herramientas es vital para la productividad y la calidad del código.

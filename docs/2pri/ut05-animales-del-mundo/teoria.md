@@ -6,7 +6,7 @@ description: Descubrimos el maravilloso mundo animal, sus familias y sus hogares
 
 ¡El mundo está lleno de seres vivos increíbles! Desde la pequeña hormiga hasta la enorme ballena, todos los animales son especiales.
 
-![Mundo Animal](/home/antonio/.gemini/antigravity/brain/6affa147-56b3-4eac-afe1-ff7f024eb519/animales_mundo_clasificacion_infantil_1778792493399.png)
+![Mundo Animal](/img/2pri/animales_mundo_clasificacion_infantil_1778792493399.png)
 
 ## ¿Cómo son los animales?
 

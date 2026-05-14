@@ -31,7 +31,7 @@ Mermaid utiliza diferentes flechas para los tipos de relaciones:
 
 | Relación | Sintaxis | Símbolo |
 | :--- | :--- | :--- |
-| **Herencia** | `<|--` | Flecha vacía |
+| **Herencia** | `&lt;|--` | Flecha vacía |
 | **Composición** | `*--` | Rombo lleno |
 | **Agregación** | `o--` | Rombo vacío |
 | **Asociación** | `-->` | Flecha abierta |

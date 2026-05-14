@@ -1,7 +1,7 @@
 ---
 title: "Teoría: Estructuras de Control"
 sidebar_position: 1
-description: Dominando la lógica de ejecución: bifurcaciones y repeticiones.
+description: "Dominando la lógica de ejecución: bifurcaciones y repeticiones."
 ---
 
 Las estructuras de control permiten que el programa tome decisiones y repita tareas de forma automática.
