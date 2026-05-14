@@ -56,7 +56,7 @@ const FeatureList = [
   },
   {
     title: 'Acceso a Datos',
-    link: '/docs/AD/introduccion',
+    link: '/docs/AD/introduccion-ad',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
