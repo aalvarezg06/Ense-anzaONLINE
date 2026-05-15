@@ -1,46 +1,56 @@
 ---
-title: ¡Aprendemos! - Inventos y máquinas
+title: ¡Aprendemos! - El Mundo de los Inventos
 sidebar_position: 1
-description: Descubrimos cómo las máquinas y los inventos nos hacen la vida más fácil.
+description: Descubrimos cómo las máquinas y los inventos nos hacen la vida más fácil y cómo funcionan.
 ---
 
-¡El ser humano es muy ingenioso! Desde que vivimos en la Tierra, hemos inventado cosas para ayudarnos a trabajar, viajar y divertirnos.
+¡El ser humano es un gran inventor! Desde que el mundo es mundo, hemos buscado formas de hacer las cosas más rápido y con menos esfuerzo. A esos objetos que nos ayudan los llamamos **máquinas**.
 
-## ¿Qué es una Máquina?
+![Inventos y Máquinas](/img/2pri/inventos_maquinas_infantil_1778793862701.png)
 
-Una máquina es un objeto que nos ayuda a realizar una tarea con menos esfuerzo. Hay dos tipos:
+## ¿Cómo son las máquinas?
 
-1.  **Máquinas Simples**: Tienen pocas piezas y funcionan con nuestra fuerza (ej: unas tijeras, un martillo, una polea).
-2.  **Máquinas Compuestas**: Tienen muchas piezas y suelen funcionar con electricidad o gasolina (ej: un ordenador, un coche, una lavadora).
+No todas las máquinas son complicadas como un robot. Se dividen en dos grandes grupos:
+
+*   **Máquinas Simples**: Tienen una o muy pocas piezas. Funcionan con la fuerza de nuestros músculos. 
+    *   *Ejemplos*: La **rampa** (para subir cosas pesadas), la **polea** (para subir cubos de agua) o las **tijeras**.
+*   **Máquinas Compuestas**: Están formadas por muchas piezas unidas. Suelen funcionar con electricidad, pilas o gasolina.
+    *   *Ejemplos*: La **bicicleta** (aunque usamos los pies, tiene muchas piezas como la cadena y los piñones), el **ordenador** o un **avión**.
 
 ```mermaid
-graph TD
-    A[Máquinas] --> B(Simples)
-    A --> C(Compuestas)
-    B --> D[Polea, Palanca, Rampa]
-    C --> E[Motor, Engranajes, Circuitos]
+mindmap
+  root((Máquinas))
+    Simples
+      Palanca
+      Rueda
+      Plano inclinado
+    Compuestas
+      Motor
+      Pantalla
+      Cables
+    Energía
+      Músculos
+      Electricidad
+      Sol
 ```
 
-## Grandes Inventos de la Historia
+## Los Inventos que cambiaron todo
 
-Hay algunos inventos que cambiaron el mundo para siempre:
+Un invento es algo que no existía antes y que alguien imagina para solucionar un problema.
 
-*   **La Rueda**: ¡Imagínate llevar cosas pesadas sin ruedas!
-*   **La Imprenta**: Gracias a ella podemos tener muchos libros.
-*   **La Bombilla**: ¡Para tener luz por la noche!
-*   **Internet**: Para estar conectados con todo el mundo.
-
-## Las Máquinas en Casa
-
-En nuestra casa tenemos muchas máquinas que nos ayudan:
-*   **Para limpiar**: La aspiradora o la lavadora.
-*   **Para cocinar**: El microondas o la batidora.
-*   **Para divertirnos**: La tablet o la consola.
+1.  **La Rueda**: El invento más importante para el transporte. ¡Todo lo que rueda nos ahorra mucho esfuerzo!
+2.  **La Imprenta**: Permitió que los libros llegaran a todos los niños del mundo.
+3.  **La Bombilla**: Thomas Edison nos regaló luz para poder leer y jugar por la noche.
+4.  **El Teléfono**: Para poder hablar con personas que están muy lejos.
 
 :::info ¿Sabías que...?
-Uno de los inventos más importantes fue el **fuego**. Aunque no es una máquina, ayudó a los humanos a calentarse y cocinar hace miles de años.
+¡Muchos inventos se inspiran en la naturaleza! Por ejemplo, los aviones imitan el vuelo de los pájaros y el velcro se inventó observando cómo se pegaban algunas semillas a la ropa.
 :::
 
-:::tip Truco
-Si una máquina tiene cables o pilas, ¡seguro que es una máquina compuesta!
+## Máquinas que nos cuidan
+
+Hay máquinas muy especiales que ayudan a las personas: las sillas de ruedas, los audífonos para oír mejor o las gafas. ¡La tecnología está para ayudarnos a todos!
+
+:::tip Truco de Inventor
+Si quieres ser inventor, ¡observa bien! Mira si hay algo que sea difícil de hacer y piensa: *"¿Cómo podría hacer una máquina que me ayudara con esto?"*.
 :::
