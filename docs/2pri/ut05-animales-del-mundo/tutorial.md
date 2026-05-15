@@ -1,51 +1,59 @@
 ---
-title: ¡Practicamos! - Investigamos los animales
+title: ¡Practicamos! - Diario de un Naturalista
 sidebar_position: 2
 description: Actividades para aprender a clasificar animales y conocer sus características.
 ---
 
-¡Es hora de convertirnos en **exploradores de la naturaleza**! Vamos a investigar cómo viven los animales y qué necesitan para ser felices.
+¡Es hora de sacar tu lupa! Vamos a convertirnos en **Naturalistas** (científicos que estudian la naturaleza) y a investigar cómo viven nuestros amigos los animales.
 
-## Misión 1: ¿Quién vive aquí?
+## Misión 1: El Carnet del Animal
 
-Cada animal tiene un hogar especial llamado **hábitat**. Une cada animal con su casa:
+Elige a tu animal favorito y rellena esta ficha de investigación:
 
-*   **Delfín** ----------------> Océano
-*   **León** ------------------> ______
-*   **Águila** ----------------> ______
-*   **Vaca** ------------------> ______
+*   **Nombre del animal:** ________________
+*   **¿Es Vertebrado o Invertebrado?:** ________________
+*   **¿Cómo nace? (Huevo o Vientre):** ________________
+*   **¿Qué tiene en la piel?:** ________________
+*   **¿Qué come?:** ________________
 
-:::info ¿Sabías que...?
-Algunos animales, como las cigüeñas, viajan miles de kilómetros cuando llega el frío para buscar un sitio más cálido. ¡Eso se llama **migración**!
+:::tip Truco de Naturalista
+Si tienes dudas, fíjate en su boca: los carnívoros suelen tener dientes afilados y los herbívoros los tienen más planos para masticar hierba.
 :::
 
-## Misión 2: Clasificamos por su piel
+## Misión 2: El Laberinto de los Hábitats
 
-Mira estas fotos (o imagina a los animales) y escribe qué tienen en el cuerpo:
+¿Sabrías decir dónde vive cada uno? Escribe el tipo de hábitat (Tierra, Agua o Aire):
 
-1.  **Gato**: Tiene ______
-2.  **Pájaro**: Tiene ______
-3.  **Pez**: Tiene ______
-4.  **Tortuga**: Tiene ______
-
-:::tip Truco
-Si quieres saber si un animal es un ave, ¡busca las plumas! Ningún otro animal las tiene.
-:::
-
-## Misión 3: Problemas de Granja
-
-En una granja de Extremadura hay **12 ovejas** y **15 cabras**. 
-
-*   ¿Cuántos animales hay en total? 
-*   Operación: 12 + 15 = ______
-*   Resultado: Hay ______ animales.
+1.  **Trucha del río Jerte**: ________________
+2.  **Cigüeña de la torre**: ________________
+3.  **Vaca de la dehesa**: ________________
+4.  **Delfín del océano**: ________________
 
 ```mermaid
-graph LR
-    A[Ovejas: 12] --> C[Total: ?]
-    B[Cabras: 15] --> C
+graph TD
+    A[Hogares Animales] --> B(Acuáticos)
+    A --> C(Terrestres)
+    B --> D[Ríos y Mares]
+    C --> E[Selvas, Desiertos y Dehesas]
 ```
 
-:::info Ayuda
-Para sumar números grandes, suma primero las unidades y luego las decenas.
+## Misión 3: Cuentas en la Dehesa
+
+En una dehesa de Extremadura, un pastor cuenta sus animales. Ayúdale con estos cálculos:
+
+*   Hay **24 cerditos** comiendo bellotas y llegan **13 más**. ¿Cuántos hay ahora?
+    *   Operación: 24 + 13 = ______
+*   De un grupo de **48 ovejas**, se van **10** a beber agua. ¿Cuántas se quedan?
+    *   Operación: 48 - 10 = ______
+
+:::info ¡Ojo al dato!
+Recuerda colocar siempre las unidades debajo de las unidades y las decenas debajo de las decenas. ¡No mezcles las columnas!
+:::
+
+## Juego Final: ¡Adivina el animal!
+
+Juega con un compañero. Uno imita el sonido o el movimiento de un animal y el otro debe adivinar de quién se trata. ¡Sin hablar!
+
+:::success ¡Investigación Completada!
+Has demostrado que sabes observar y clasificar como un auténtico naturalista. ¡El mundo animal te da las gracias!
 :::

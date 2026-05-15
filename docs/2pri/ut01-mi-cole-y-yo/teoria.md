@@ -4,45 +4,59 @@ sidebar_position: 1
 description: Una bienvenida mágica a nuestro curso de segundo de primaria.
 ---
 
-¡Hola! Qué alegría volver a vernos. Este año va a ser **increíble**. En nuestra clase de **2º de Primaria** vamos a descubrir un montón de cosas nuevas.
+¡Hola! Qué alegría volver a vernos. Este año va a ser **increíble**. En nuestra clase de **2º de Primaria** vamos a descubrir un montón de cosas nuevas y a conocer mejor nuestro colegio.
 
 ![Bienvenidos a 2º](/img/2pri/bienvenida_segundo_primaria_1778791753927.png)
 
-## Nuestra Clase es un Equipo
+## El Colegio: Mi Segundo Hogar
 
-En el cole, todos somos amigos y nos ayudamos. Para que nuestra clase sea el mejor sitio del mundo, tenemos que recordar algunas cosas:
+Nuestro colegio no es solo un edificio, es un lugar lleno de personas que nos ayudan a crecer. ¿Sabes quiénes forman nuestro equipo?
 
-*   **Saludamos** al llegar con una gran sonrisa.
-*   **Escuchamos** cuando alguien habla.
-*   **Compartimos** nuestros materiales.
-*   **Recogemos** todo al terminar.
+*   **Tus compañeros y compañeras**: Con los que juegas y aprendes cada día.
+*   **Tus maestros**: Que te enseñan cosas fascinantes.
+*   **Conserjes y personal de limpieza**: Que cuidan que todo esté perfecto.
 
-:::info ¿Sabías que...?
-Nuestra clase es como una pequeña familia donde todos aprendemos juntos.
-:::
+## Los Espacios de Mi Cole
 
-## ¿Cómo nos organizamos?
-
-Mira este esquema para ver cómo vamos a trabajar este curso:
+¿Te has fijado en cuántos sitios diferentes tiene nuestro colegio? Mira este mapa de ideas:
 
 ```mermaid
-graph TD
-    A[¡Nosotros!] --> B(Lengua)
-    A --> C(Matemáticas)
-    A --> D(Conocimiento del Medio)
-    B --> E[Leer y escribir cuentos]
-    C --> F[Números y sumas]
-    D --> G[Naturaleza y experimentos]
+mindmap
+  root((Mi Colegio))
+    Nuestra Aula
+      Pizarra
+      Mesas
+      Rincón de lectura
+    Zonas de Juego
+      Patio
+      Pistas de deporte
+    Sitios Especiales
+      Biblioteca
+      Comedor
+      Aula de música
 ```
+
+## Nuestra Clase es un Equipo
+
+Para que nuestra clase sea el mejor sitio del mundo, tenemos que recordar algunas normas de convivencia:
+
+*   **Saludamos** al llegar con una gran sonrisa.
+*   **Escuchamos** con atención cuando alguien habla.
+*   **Pedimos las cosas "por favor"** y damos las "gracias".
+*   **Recogemos** nuestros materiales al terminar.
+
+:::info ¿Sabías que...?
+En Extremadura, muchos colegios tienen nombres de personas importantes de nuestra historia o de la naturaleza que nos rodea. ¿Cómo se llama el tuyo?
+:::
 
 ## Nuestros Rincones Mágicos
 
-En el aula tenemos diferentes sitios especiales:
+En el aula tenemos diferentes sitios especiales donde ocurre la magia:
 
-1.  **La Biblioteca**: Para leer aventuras fantásticas.
-2.  **El Rincón de Mates**: Con juegos para contar y medir.
-3.  **El Perchero**: Para dejar nuestras mochilas bien ordenadas.
+1.  **La Biblioteca**: Un rincón tranquilo para viajar con la imaginación.
+2.  **El Rincón de Mates**: Donde los números se convierten en divertidos juegos.
+3.  **El Mural de los Cumpleaños**: Para celebrar que todos crecemos juntos.
 
 :::tip Truco
-Si mantienes tu mesa limpia y ordenada, ¡encontrarás tus lápices mucho más rápido!
+Si mantienes tu mesa limpia y ordenada, ¡encontrarás tus colores mucho más rápido y trabajarás más feliz!
 :::

@@ -1,52 +1,58 @@
 ---
-title: ¡Practicamos! - Contamos estrellas
+title: ¡Practicamos! - Entrenamiento de Astronautas
 sidebar_position: 2
-description: Practicamos los números grandes y las series espaciales.
+description: Practicamos los números de tres cifras y los movimientos de la Tierra.
 ---
 
-¡Es hora de entrenar para ser astronautas! Vamos a usar los números para navegar por las estrellas.
+¡Bienvenido al Centro de Entrenamiento Espacial! Para pilotar una nave, un astronauta debe ser muy bueno con los números y conocer bien los secretos del cielo.
 
-## Misión 1: Series Espaciales
+## Misión 1: Códigos de Despegue
 
-Nuestra nave necesita un código para despegar. Completa estas series de números:
+Toda nave espacial necesita una cuenta atrás perfecta. ¡No podemos fallar!
 
-*   **De 2 en 2**: 2 - 4 - 6 - ____ - ____ - ____
-*   **De 5 en 5**: 5 - 10 - 15 - ____ - ____ - ____
-*   **Hacia atrás (Cuenta atrás)**: 10 - 9 - 8 - ____ - ____ - ____ - **¡IGNICIÓN!**
+### Paso 1: Series Numéricas
+Completa los huecos para que el ordenador de a bordo funcione:
+*   **Hacia adelante (de 10 en 10):** 100 - 110 - 120 - ____ - ____ - ____
+*   **Hacia atrás (de 1 en 1):** 10 - 9 - 8 - ____ - ____ - ____ - **¡DESPEGUE!**
 
-## Misión 2: Los Números del 100 al 200
+### Paso 2: La Centena
+En el espacio las distancias son enormes, por eso usamos números de tres cifras.
+*   **100** es una **Centena** (10 decenas o 100 unidades).
+*   **¿Cómo se llaman estos números?**
+    *   135: ________________________________
+    *   150: ________________________________
+    *   189: ________________________________
 
-¡Hemos llegado muy lejos! Ahora los números tienen **3 cifras**:
-
-*   **100**: Cien.
-*   **110**: Ciento diez.
-*   **125**: Ciento veinticinco.
-
-**Escribe cómo se llaman estos números:**
-*   140: ________________________
-*   162: ________________________
-*   199: ________________________
-
-:::info Ayuda
-La primera cifra (el 1) se lee siempre como "Ciento...".
+:::tip Truco de Centenas
+Recuerda: El primer número (1) se lee "Ciento", el segundo son las decenas y el tercero las unidades. ¡Es muy fácil!
 :::
 
-## Misión 3: El Día y la Noche
+## Misión 2: El Baile de la Tierra
 
-La Tierra nunca para de girar. ¿Qué haces tú en cada momento?
+La Tierra es una gran bailarina. Hace dos movimientos a la vez:
 
-| Momento | Lo que veo | Lo que hago |
-| :--- | :--- | :--- |
-| **Día** | El Sol | ________________ |
-| **Noche** | La Luna y Estrellas | ________________ |
+1.  **Rotación**: Gira sobre sí misma como una peonza. ¡Tarda 24 horas (un día entero)! Esto crea el **Día y la Noche**.
+2.  **Traslación**: Gira alrededor del Sol. ¡Tarda 365 días (un año entero)! Esto crea las **Estaciones** (Primavera, Verano, Otoño e Invierno).
 
 ```mermaid
 graph TD
-    A[La Tierra gira] --> B{¿Le da el Sol?}
-    B -- SÍ --> C[Día]
-    B -- NO --> D[Noche]
+    A[Movimientos de la Tierra] --> B(Rotación)
+    A --> C(Traslación)
+    B --> D[Día y Noche]
+    C --> E[Las 4 Estaciones]
 ```
 
-:::tip Truco
-Si miras al cielo y la Luna tiene forma de **D**, está **Creciendo**. Si tiene forma de **C**, está **Decreciendo** (haciéndose pequeña). ¡La Luna es una mentirosilla!
+## Misión 3: El Mapa Estelar
+
+¿Sabrías identificar a los planetas? Escribe el nombre del planeta que corresponde a cada descripción:
+*   Tiene unos anillos espectaculares: **S _ _ _ _ _ O**
+*   Es el "Planeta Rojo": **M _ _ _ E**
+*   Es nuestro hogar: **T _ _ _ _ A**
+
+:::info Curiosidad Espacial
+¿Sabías que en la Luna pesas mucho menos que en la Tierra? ¡Podrías saltar tan alto como una casa!
+:::
+
+:::success ¡Entrenamiento Superado!
+Has demostrado que tienes mente de astronauta. ¡Tu nave está lista para explorar!
 :::

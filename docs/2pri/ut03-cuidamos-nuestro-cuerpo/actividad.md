@@ -1,39 +1,47 @@
 ---
-title: ¡Misión Cumplida! - El Hospital de Juguetes
+title: ¡Misión Cumplida! - MasterChef Saludable de 2º
 sidebar_position: 3
-description: Una actividad para aprender a curar y cuidar a los demás.
+description: Una actividad para aprender a crear platos divertidos, sanos y equilibrados.
 ---
 
-¡Ya sabes muchísimo sobre el cuerpo! Ahora vamos a ponerlo en práctica con un juego muy divertido.
+¡Ya sabes muchísimo sobre el cuerpo y la alimentación! Ahora vamos a convertirnos en **Chefs de Súper Salud**.
 
-## Situación de Aprendizaje: ¡Abrimos el Hospital de Juguetes!
+## Situación de Aprendizaje: El Restaurante del Equipo 2º
 
-Hoy nuestra clase se convierte en una clínica para cuidar a nuestros muñecos y peluches favoritos.
+Hoy vamos a diseñar un menú que nos dé superpoderes para todo el día. ¡La comida sana también puede ser muy divertida!
 
 ### ¿Qué necesitamos?
-*   Tu peluche o juguete favorito.
-*   Vendas de papel o trozos de tela.
-*   Tiritas de colores.
-*   Un "carnet de médico" hecho por ti.
+*   Folios y pinturas de colores.
+*   Recortes de revistas de comida (si tienes).
+*   ¡Mucha creatividad culinaria!
+*   Tu gorro de Chef (puedes hacerlo con papel).
 
-### Instrucciones paso a paso
+### Instrucciones para la Misión
 
-1.  **Recepción**: Ponle un nombre a tu juguete y explica qué le pasa (ejemplo: "Se ha caído de la silla y le duele el brazo").
-2.  **Exploración**: Mira si tiene los huesos bien y dónde le duele.
-3.  **Cura**: Ponle una tirita o una venda con mucho cuidado.
-4.  **Receta de Salud**: Escribe un consejo para que se recupere pronto (ejemplo: "Dormir mucho y comer fruta").
+1.  **Diseña tu Plato Combinado**: Dibuja un círculo grande en un folio (será tu plato). Debe tener tres partes:
+    *   La mitad del plato con **verduras y frutas** de colores.
+    *   Un cuarto con **proteínas** (carne, pescado, huevos o legumbres).
+    *   El otro cuarto con **hidratos** (arroz, pasta o patata).
+2.  **Ponle un nombre divertido**: No digas "ensalada", di "El Bosque Mágico de Brócoli". ¡Sé creativo!
+3.  **La Bebida de los Campeones**: Dibuja al lado un vaso de lo más sano que existe. ¿Sabes qué es? ¡Exacto, el agua!
+4.  **El Postre Natural**: Elige una fruta típica de Extremadura para terminar tu menú (cerezas del Jerte, higos, ciruelas...).
 
 ```mermaid
-graph LR
-    A[Paciente llega] --> B[Exploración]
-    B --> C[Curar con mimo]
-    C --> D[Consejo sano]
-    D --> E[¡Paciente feliz!]
+pie title Mi Plato Saludable
+    "Frutas y Verduras" : 50
+    "Proteínas (Pollo, Pescado...)" : 25
+    "Energía (Arroz, Pasta...)" : 25
 ```
 
+## Presentación al Jurado
+
+Explica a tus compañeros por qué tu plato es bueno para el cuerpo. Puedes decir: *"Mi plato ayuda a los músculos porque tiene pollo y a la vista porque tiene zanahorias"*.
+
 :::tip ¡Misión cumplida!
-Cuidar a los demás es tan importante como cuidarnos a nosotros mismos. ¡Eres un gran doctor/a!
+¡Enhorabuena, Chef! Has demostrado que comer sano es el mejor secreto para crecer fuertes. ¡Reparte pegatinas de frutas a tus compañeros!
 :::
 
-**Pregunta final:**
-¿Qué es lo que más te gusta hacer para estar activo y feliz? ¡Dibújalo en la parte de atrás de tu carnet de médico!
+**¿Cuál es tu fruta favorita para merendar?**
+Dibuja una pequeña manzana roja si prometes intentar comer más fruta esta semana. ¡Buen provecho!
+
+![Chef Saludable](/img/2pri/cuidamos_nuestro_cuerpo_saludable_1778792356060.png)

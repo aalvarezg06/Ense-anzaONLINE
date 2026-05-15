@@ -1,48 +1,56 @@
 ---
-title: ¡Misión Cumplida! - Mi Animal Fantástico
+title: ¡Misión Cumplida! - La Fiesta del Reino Animal
 sidebar_position: 3
-description: Una actividad creativa para inventar nuestro propio animal y explicar cómo vive.
+description: Una actividad creativa y colaborativa para celebrar la diversidad de los seres vivos.
 ---
 
-¡Enhorabuena! Ya sabes casi todo sobre los animales. Ahora vamos a usar nuestra imaginación para crear un animal que no existe.
+¡Enhorabuena, explorador! Ya eres un experto en el mundo animal. Para celebrar todo lo que hemos aprendido, vamos a organizar la fiesta más salvaje de la historia: **¡La Fiesta del Reino Animal!**
 
-## Situación de Aprendizaje: ¡Inventamos un Animal!
+## Situación de Aprendizaje: La Gran Gala de la Selva y la Dehesa
 
-Hoy vas a ser un científico que descubre una especie nueva.
+Hoy vamos a representar a nuestros animales favoritos y a explicar a los demás por qué son tan especiales.
 
-### ¿Qué necesitas?
-*   Un folio blanco.
-*   Lápices de colores y rotuladores.
-*   Pegamento y purpurina (si quieres que brille).
+### ¿Qué necesitamos?
+*   Cartulinas para hacer máscaras o diademas.
+*   Maquillaje de cara (si el maestro nos ayuda).
+*   Música de sonidos de la naturaleza.
+*   ¡Muchas ganas de rugir, piar o ladrar!
 
-### Instrucciones paso a paso
+### Instrucciones para la Gala
 
-1.  **Dibuja tu animal**: Mezcla partes de diferentes animales (ejemplo: cuerpo de perro, alas de pájaro y cola de pez).
-2.  **Ponle un nombre**: ¡Sé original! (ejemplo: El "Perropájaropez").
-3.  **Explica cómo es**: 
-    *   ¿Es vertebrado o invertebrado?
-    *   ¿Qué come?
-    *   ¿Dónde vive?
-4.  **Dibuja su casa**: Alrededor del animal, dibuja el paisaje donde vive (el bosque, el mar, el espacio...).
+1.  **Crea tu Máscara**: Elige un animal. Dibuja su cara en una cartulina, recórtala y ponle una goma. ¡No olvides las orejas, los bigotes o el pico!
+2.  **El Discurso del Animal**: Cada animal saldrá al centro y dirá tres cosas sobre sí mismo sin decir su nombre. 
+    *   *Ejemplo: "Soy vivíparo, tengo pelo y me gusta comer bellotas... ¿Quién soy?"* (¡El cerdito!).
+3.  **El Baile de los Hábitats**: Cuando suene la música de "agua", los peces y delfines deben moverse. Cuando suene "aire", las aves vuelan. ¡Cuidado no te equivoques de casa!
+4.  **Mural Colectivo**: Pegaremos nuestras máscaras en un gran mural que dividiremos en: **AIRE, TIERRA y AGUA**.
 
 ```mermaid
 mindmap
-  root((Mi Animal))
-    Cómo es
-      Vertebrado
-      Alas
-      Escamas
-    Qué come
-      Plantas
-      Bichitos
-    Dónde vive
-      Cueva mágica
-      Río de leche
+  root((Nuestra Gala))
+    Máscaras
+      Orejas
+      Picos
+      Bigotes
+    Juegos
+      Adivina el animal
+      Baile de hábitats
+    Compromiso
+      Cuidar el campo
+      No molestar bichitos
 ```
 
+## Nuestro Compromiso Verde
+
+Como ahora conocemos mejor a los animales, prometemos:
+*   **No molestar** a los bichitos que veamos en el patio.
+*   **No tirar basura** al campo para no ensuciar sus hogares.
+*   **Respetar** a todas las mascotas.
+
 :::tip ¡Misión cumplida!
-Cuando todos hayamos terminado, haremos una **Exposición de Animales Fantásticos** en el pasillo del cole.
+¡Ha sido una fiesta increíble! Gracias a ti, ahora todos sabemos que cada animal, por pequeño que sea, es importante para que la Tierra sea un lugar feliz.
 :::
 
-**Pregunta final:**
-¿Qué animal de Extremadura te gustaría ser por un día? ¿Un águila para volar muy alto o un lince para correr por la dehesa? ¡Cuéntanos por qué!
+**¿Qué animal te ha parecido el más curioso de todos los que hemos visto?**
+Dibuja una pequeña huella en tu cuaderno si prometes ser un protector de la naturaleza. ¡Buen trabajo, guardián!
+
+![Mundo Animal](/img/2pri/animales_mundo_clasificacion_infantil_1778792493399.png)

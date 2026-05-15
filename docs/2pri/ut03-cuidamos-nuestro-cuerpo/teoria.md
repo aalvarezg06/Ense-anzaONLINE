@@ -1,45 +1,59 @@
 ---
-title: ¡Aprendemos! - Conocemos nuestro cuerpo
+title: ¡Aprendemos! - Mi Cuerpo es una Máquina Genial
 sidebar_position: 1
 description: Descubrimos cómo funciona nuestro cuerpo y cómo mantenerlo sano y fuerte.
 ---
 
-Nuestro cuerpo es como una **máquina perfecta**. ¡Y nosotros somos los encargados de cuidarla!
+Nuestro cuerpo es como una **máquina perfecta** que nunca se detiene. ¡Incluso cuando dormimos, sigue trabajando! Nosotros somos los "ingenieros" encargados de cuidarla y darle combustible del bueno.
 
 ![Hábitos Saludables](/img/2pri/cuidamos_nuestro_cuerpo_saludable_1778792356060.png)
 
-## ¿Qué hay dentro de nosotros?
+## El Equipo del Movimiento
 
-Aunque no los veamos, tenemos cosas muy importantes dentro:
+Para poder saltar, correr y bailar, necesitamos que tres partes trabajen juntas:
 
-*   **Los Huesos**: Son duros y forman el esqueleto. ¡Nos ayudan a estar de pie!
-*   **Los Músculos**: Son blandos y elásticos. ¡Nos ayudan a movernos!
-*   **Las Articulaciones**: Son las "bisagras" donde se unen los huesos (como los codos o las rodillas).
+1.  **El Esqueleto**: Son los 206 huesos que tenemos. ¡Son el armazón de nuestro cuerpo! Sin ellos, seríamos como gelatina.
+2.  **Los Músculos**: Son como gomas elásticas que tiran de los huesos para que se muevan. Tenemos más de 600 músculos.
+3.  **Las Articulaciones**: Son las uniones. Imagina que son las bisagras de una puerta. Las más importantes son el **cuello**, los **hombros**, los **codos**, las **muñecas**, la **cadera**, las **rodillas** y los **tobillos**.
 
 ```mermaid
-graph TD
-    A[Nuestro Cuerpo] --> B(Esqueleto)
-    A --> C(Músculos)
-    B --> D[Protege los órganos]
-    B --> E[Sostiene el cuerpo]
-    C --> F[Permite el movimiento]
-    C --> G[Da fuerza]
+mindmap
+  root((Movimiento))
+    Huesos
+      Duros
+      Protegen
+      Esqueleto
+    Músculos
+      Elásticos
+      Fuerza
+      Movimiento
+    Articulaciones
+      Unión
+      Flexibilidad
+      Bisagras
 ```
 
-## Los 5 Sentidos
+## Los 5 Exploradores: Los Sentidos
 
-Gracias a ellos podemos conocer todo lo que nos rodea:
+Nuestros sentidos son como ventanas que nos dicen qué pasa fuera. ¿Sabes cómo funcionan?
 
-1.  **Vista**: Con nuestros ojos vemos colores y formas.
-2.  **Oído**: Con nuestras orejas escuchamos música y voces.
-3.  **Olfato**: Con nuestra nariz olemos las flores (¡y la comida rica!).
-4.  **Gusto**: Con nuestra lengua sabemos si algo es dulce o salado.
-5.  **Tacto**: Con nuestra piel sentimos si algo es suave o pincha.
+*   **La Vista**: Usamos los ojos. ¡Protege tus ojos de la luz muy fuerte!
+*   **El Oído**: Usamos los oídos. ¡No escuches ruidos muy altos!
+*   **El Olfato**: Usamos la nariz. Nos avisa de peligros como el humo.
+*   **El Gusto**: Usamos la lengua. ¡Diferenciamos dulce, salado, ácido y amargo!
+*   **El Tacto**: Usamos toda la piel, pero sobre todo las manos.
 
 :::info ¿Sabías que...?
-El hueso más largo de nuestro cuerpo se llama **fémur** y está en la pierna.
+¡Tu corazón es un músculo que nunca descansa! Es del tamaño de tu puño cerrado y late más rápido cuando corres para llevar energía a todo el cuerpo.
 :::
 
+## Hábitos de Superhéroe
+
+Para estar siempre listos para la acción, debemos seguir estas reglas:
+*   **Dormir 10 horas**: Para que nuestro cerebro descanse.
+*   **Higiene**: Lavarse las manos antes de comer y los dientes después.
+*   **Alimentación**: Comer de todo, ¡sobre todo frutas y verduras de los huertos de Extremadura!
+
 :::tip Truco
-Para que tus huesos crezcan fuertes, ¡no olvides beber leche y comer fruta todos los días!
+¿Quieres saber si estás bebiendo suficiente agua? Si tienes sed, ¡ya vas tarde! Bebe agua a menudo aunque no tengas mucha sed.
 :::

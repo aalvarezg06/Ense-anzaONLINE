@@ -1,53 +1,51 @@
 ---
-title: ¡Practicamos! - Vamos a comprar
+title: ¡Practicamos! - Calculadora del Mercado
 sidebar_position: 2
-description: Actividades para practicar con el dinero y las medidas de peso.
+description: Actividades para practicar con el dinero, las vueltas y las medidas de peso.
 ---
 
-¡Es hora de sacar la cartera (de juguete)! Vamos a ver si sabemos cuánto cuestan las cosas.
+¡Es hora de sacar la calculadora mental! Vamos a ver si somos unos hachas de las finanzas en nuestro mercado de barrio.
 
-## Misión 1: ¡A pagar!
+## Misión 1: ¡A contar monedas!
 
-Mira estos precios y dinos qué monedas usarías:
+Mira estos objetos y dinos cuántas monedas de **1 euro** o de **50 céntimos** necesitas:
 
-*   **Chupa-chups**: 50 céntimos.
-*   **Barra de pan**: 1 Euro.
-*   **Libreta**: 3 Euros.
+*   **Helado de fresa**: 1 € y 50 cts. Necesito 1 moneda de 1€ y ______ de 50 cts.
+*   **Cómic de aventuras**: 4 €. Necesito ______ monedas de 1€.
+*   **Bolsa de canicas**: 2 € y 50 cts. ¿Cómo podrías pagarlo usando solo monedas de 50 céntimos? (Recuerda que 50 + 50 = 1€).
 
-**Suma de la compra:**
-Si compro un pan (1€) y una libreta (3€), ¿cuánto me gasto?
-Operación: 1 + 3 = ______ Euros.
-
-:::info ¿Sabías que...?
-En Extremadura tenemos productos muy famosos como el **Queso de la Serena** o la **Torta del Casar**. ¡Están riquísimos pero cuestan un poquito más!
+:::tip Truco de Ahorro
+Si juntas dos monedas de 50 céntimos, ¡tienes 1 euro! Y si juntas cinco de 20 céntimos, ¡también tienes 1 euro!
 :::
 
-## Misión 2: Pesamos la fruta
+## Misión 2: ¿Cuánto me sobra? (Las Vueltas)
 
-En la frutería, las cosas se pesan en **Kilos (kg)**. 
+A veces pagamos con un billete más grande y el dependiente nos tiene que devolver dinero. ¡Eso se llama **las vueltas**!
 
-*   Una sandía pesa: **3 kilos**.
-*   Una manzana pesa: **un poquito menos de 1 kilo**.
+*   **Caso A**: Compras un juguete que cuesta **3 €** y pagas con un billete de **5 €**.
+    *   Cálculo: 5 - 3 = ______ €. (Te sobran 2€).
+*   **Caso B**: Compras una caja de colores de **6 €** y pagas con un billete de **10 €**.
+    *   Cálculo: 10 - 6 = ______ €.
 
-**¿Qué pesa más?**
-*   ¿2 kilos de peras o 5 kilos de patatas? ______
-*   ¿1 kilo de plátanos o 1 kilo de fresas? ______ (¡Truco: pesan lo mismo!)
+## Misión 3: La Balanza de la Fruta
 
-## Misión 3: El Ticket de Compra
-
-Escribe una lista de la compra con 3 cosas que necesites para merendar y ponle un precio (¡puedes inventarlo!):
-
-1.  ________________ -> ______ €
-2.  ________________ -> ______ €
-3.  ________________ -> ______ €
+En el mercado usamos la balanza para saber cuánto pesa lo que compramos. La medida es el **Kilo (kg)**.
 
 ```mermaid
 graph LR
-    A[Lista] --> B[Tienda]
-    B --> C[Pagar]
-    C --> D[¡Merienda lista!]
+    A[Producto] --> B{¿Pesa mucho?}
+    B -- SÍ --> C[Más de 1 kg]
+    B -- NO --> D[Menos de 1 kg]
 ```
 
-:::tip Truco
-Mira siempre la **fecha de caducidad** de los alimentos. ¡Es muy importante para no ponerse malito!
+**Dinos qué pesa más (>) o menos (<):**
+*   Una bolsa de patatas (5 kg) ______ Una red de naranjas (2 kg).
+*   Una sandía entera ______ Una manzana pequeña.
+
+:::info ¿Sabías que...?
+En las tiendas de antes se usaban pesas de metal. Hoy en día las balanzas son digitales y nos dicen el peso con números brillantes.
+:::
+
+:::success ¡Objetivo Conseguido!
+Has demostrado que sabes comprar, calcular las vueltas y pesar los alimentos. ¡Ya puedes ir a comprar el pan solo! (¡Con permiso de tus papás!).
 :::

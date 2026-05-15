@@ -1,48 +1,60 @@
 ---
-title: ¡Practicamos! - Hábitos para estar sanos
+title: ¡Practicamos! - Entrenamiento de Súper Salud
 sidebar_position: 2
 description: Aprendemos a medir nuestro crecimiento y a organizar nuestro menú saludable.
 ---
 
-¡Es hora de convertirnos en expertos en salud!
+¡Es hora de poner a prueba nuestra máquina! Vamos a entrenar para ser los más sanos de la clase.
 
-## Misión 1: ¿Cuánto hemos crecido?
+## Misión 1: Mi Diario de Crecimiento
 
-El cuerpo cambia muy rápido cuando somos pequeños. ¡Vamos a comprobarlo!
+Tu cuerpo cambia cada día porque te estás haciendo mayor. ¡Vamos a investigar cuánto!
 
-### Paso 1: Medimos la altura
-Coge una cinta métrica con ayuda de un compañero:
+### Paso 1: El Estirón
+Con ayuda de un compañero y una cinta métrica, descubre tus medidas:
+*   **Mi altura actual:** ______ centímetros.
+*   **Mi peso aproximado:** ______ kilos.
+*   **Número de pie (talla):** ______ .
 
-*   **Mi altura es de:** ______ centímetros.
-*   **La altura de mi compañero es:** ______ centímetros.
+### Paso 2: Comparando Números
+¿Quién ha dado el estirón más grande? Compara tu altura con la de un amigo usando los signos **>** (mayor que) o **<** (menor que).
 
-### Paso 2: ¿Quién es más alto?
-Compara los dos números. Recuerda usar los signos:
-*   **>** (Mayor que)
-*   **&lt;** (Menor que)
-
-:::info Ejemplo
-Si yo mido 125 cm y mi amigo 122 cm, entonces **125 > 122**.
+:::info Ejemplo de Investigador
+Si Lucía mide 128 cm y Pedro mide 124 cm, escribimos: **128 > 124**.
 :::
 
-## Misión 2: El Menú Saludable
+## Misión 2: El Semáforo de la Comida
 
-Para tener mucha energía, hay que comer de todo. Clasifica estos alimentos:
+No todos los alimentos nos dan la misma energía. Vamos a colocarlos en su sitio:
 
-`MANZANA - CHUCHES - PESCADO - LECHUGA - REFRESCO - POLLO`
+*   **Luz Verde (Siempre):** Frutas, verduras, legumbres, pescado.
+*   **Luz Amarilla (A veces):** Pasta, pan, carne, lácteos.
+*   **Luz Roja (Muy poco):** Bollería, chuches, refrescos con mucho azúcar.
 
-*   **¡SÍ, por favor! (Muy sanos):** ________________________
-*   **¡Solo un poquito! (Menos sanos):** ________________________
+**Tu Reto:** Dibuja en tu cuaderno tu plato favorito pero cámbiale una cosa para que sea **más saludable**. 
 
-## Misión 3: Higiene Diaria
+## Misión 3: El Ritual de la Limpieza
 
-Ordena estos pasos para lavarte bien las manos:
+Lavar las manos es como poner un escudo contra los virus. ¿Sabes hacerlo bien?
 
-1.  Cerrar el grifo y secarse con la toalla.
-2.  Echarse jabón y frotar bien.
-3.  Mojarse las manos con agua.
-4.  Aclararse con mucha agua.
+```mermaid
+graph LR
+    A[Agua] --> B[Jabón]
+    B --> C[Frotar 20 seg]
+    C --> D[Aclarar]
+    D --> E[Secar bien]
+```
 
-:::tip Truco
-¡Lávate los dientes después de cada comida durante lo que dura tu canción favorita!
+**Ordena estos pasos:**
+1. [ ] Echarse jabón y frotar palmas y dedos.
+2. [ ] Mojarse las manos con agua limpia.
+3. [ ] Secarse con una toalla limpia o papel.
+4. [ ] Aclararse con agua para quitar la espuma.
+
+:::tip Truco de Salud
+Para que tus ojos no se cansen, intenta no mirar pantallas (móvil, tablet o TV) antes de irte a dormir. ¡Lee un cuento mejor!
+:::
+
+:::success ¡Entrenamiento Completado!
+Has aprendido a cuidar tu cuerpo y a elegir lo mejor para ti. ¡Eres un campeón de la salud!
 :::

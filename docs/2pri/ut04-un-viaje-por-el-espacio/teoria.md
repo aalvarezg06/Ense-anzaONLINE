@@ -1,49 +1,63 @@
 ---
-title: ¡Aprendemos! - El Sistema Solar
+title: ¡Aprendemos! - Exploradores del Espacio
 sidebar_position: 1
-description: Viajamos más allá de las nubes para conocer los planetas y las estrellas.
+description: Viajamos más allá de las nubes para conocer los planetas, las estrellas y la Luna.
 ---
 
-¿Alguna vez has mirado al cielo por la noche? ¡Es enorme! Hoy vamos a subirnos a una nave espacial para conocer el **Universo**.
+¡Abróchense los cinturones! Nuestra nave espacial despega en 3, 2, 1... ¡Ignición! Hoy vamos a dejar atrás la Tierra para descubrir el **Universo** y nuestro vecindario espacial: el **Sistema Solar**.
 
 ![Nuestro Sistema Solar](/img/2pri/espacio_sistema_solar_infantil_1778792425405.png)
 
-## El Sol: Nuestra Gran Estrella
+## El Sol: El Rey de la Luz
 
-El Sol es una bola de fuego gigante que nos da **luz y calor**. Sin él, la Tierra sería un lugar oscuro y muy frío. ¡Es el jefe del Sistema Solar!
+El Sol es una estrella gigante (¡una bola de fuego y gas!). Es tan importante porque:
+*   Nos da **luz** para ver durante el día.
+*   Nos da **calor** para que no nos congelemos.
+*   Mantiene a todos los planetas girando a su alrededor.
 
-## Los Planetas Vecinos
+## Los 8 Vecinos Espaciales
 
-Hay 8 planetas que giran alrededor del Sol. Algunos son pequeños y de roca, y otros son gigantes y de gas:
+Los planetas son como hermanos que nunca dejan de dar vueltas al Sol. Se dividen en dos grupos:
 
-*   **Mercurio**: El más cercano al Sol. ¡Mucho calor!
-*   **Venus**: Brilla mucho en el cielo.
-*   **Tierra**: ¡Nuestro hogar! El único con agua y vida.
-*   **Marte**: El planeta rojo.
-*   **Júpiter**: El más grande de todos.
-*   **Saturno**: ¡El de los anillos preciosos!
-*   **Urano y Neptuno**: Los más lejanos y fríos.
+1.  **Los Rocosos (Pequeños y duros)**: Mercurio, Venus, Tierra y Marte.
+2.  **Los Gaseosos (Gigantes y blandos)**: Júpiter, Saturno, Urano y Neptuno.
 
 ```mermaid
-graph LR
-    Sol((Sol)) --> Mercurio
-    Sol --> Venus
-    Sol --> Tierra
-    Sol --> Marte
-    Sol --> Júpiter
-    Sol --> Saturno
-    Sol --> Urano
-    Sol --> Neptuno
+mindmap
+  root((Sistema Solar))
+    Estrella
+      Sol
+    Planetas Rocosos
+      Mercurio
+      Venus
+      Tierra
+      Marte
+    Planetas Gaseosos
+      Júpiter
+      Saturno
+      Urano
+      Neptuno
+    Satélites
+      La Luna
 ```
 
-## La Luna: Nuestra Compañera
+## La Tierra y su mejor amiga: La Luna
 
-La Luna no es un planeta, es un **satélite** que gira alrededor de la Tierra. A veces la vemos redonda (Luna llena) y otras veces parece una uñita.
+La **Tierra** es un planeta muy especial porque tiene agua, aire y... ¡a nosotros! Pero no está sola. La **Luna** es su satélite y siempre la acompaña. 
+
+¿Has visto que la Luna cambia de forma? Son sus **fases**:
+*   **Luna Llena**: Redonda como una moneda de oro.
+*   **Luna Nueva**: No se ve, ¡está escondida!
+*   **Cuarto Creciente y Menguante**: Tienen forma de "C" o de "D".
 
 :::info ¿Sabías que...?
-Los astronautas tienen que llevar trajes especiales porque en el espacio no hay aire para respirar.
+En el espacio no se oye nada. ¡Cero ruido! Como no hay aire, el sonido no puede viajar. ¡Es el lugar más silencioso del mundo!
 :::
 
-:::tip Truco
-Para recordar el orden de los planetas, puedes inventar una frase divertida con la primera letra de cada uno.
+## Las Estrellas y Constelaciones
+
+Por la noche, vemos puntitos de luz. Son soles que están muy, muy lejos. Si unes esos puntos con líneas imaginarias, formas **Constelaciones** (dibujos en el cielo como la Osa Mayor o el Carro).
+
+:::tip Truco de Astronauta
+Si quieres encontrar la Estrella Polar, busca el "Carro" en el cielo. ¡Ella siempre te indicará dónde está el Norte!
 :::

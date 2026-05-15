@@ -1,46 +1,48 @@
 ---
-title: ¡Misión Cumplida! - Nuestro Mural del Aula
+title: ¡Misión Cumplida! - La Cápsula del Tiempo de 2º
 sidebar_position: 3
-description: Una actividad creativa y colaborativa para conocernos mejor.
+description: Una actividad creativa y colaborativa para conocernos y recordar este momento.
 ---
 
-¡Enhorabuena! Has completado tus primeras misiones de 2º. Ahora vamos a hacer algo **especial** entre todos.
+¡Enhorabuena! Has completado tus primeras misiones de 2º. Ahora vamos a hacer algo **mágico** para recordar este curso para siempre.
 
-## Situación de Aprendizaje: El Mural de los Sueños
+## Situación de Aprendizaje: La Cápsula del Tiempo
 
-Para que nuestra clase sea única, vamos a crear un gran mural donde aparezcamos todos.
+¿Sabes qué es una cápsula del tiempo? Es un recipiente donde guardamos tesoros de hoy para abrirlos en el futuro (¡cuando termine el curso!).
 
 ### ¿Qué necesitamos?
-*   Cartulina grande de colores.
-*   Rotuladores, ceras y lápices de colores.
-*   Pegamento y tijeras (¡cuidado con la punta!).
-*   Mucha imaginación.
+*   Una caja de zapatos (la decoraremos entre todos).
+*   Hojas de papel y sobres.
+*   Cintas, pegatinas y rotuladores de colores.
+*   ¡Un deseo secreto!
 
-### Instrucciones paso a paso
+### Instrucciones para la Misión
 
-1.  **Dibuja tu autoretrato**: En un trozo de papel, dibújate a ti mismo con tu ropa favorita y una gran sonrisa.
-2.  **Escribe tu nombre**: Debajo de tu dibujo, escribe tu nombre con letras muy bonitas y decoradas.
-3.  **Tu superpoder**: Al lado de tu nombre, escribe una cosa que se te dé muy bien (ejemplo: "Sé correr muy rápido", "Me gusta cantar", "Soy muy buen compañero").
-4.  **¡A pegar!**: Con ayuda del maestro, pegaremos todos los dibujos en la cartulina grande para formar el mural de 2ºB.
+1.  **Mi Carta para el Futuro**: Escribe una carta pequeña para ti mismo. Cuéntale qué te gustaría aprender este año (ejemplo: "Quiero aprender a sumar números muy grandes" o "Quiero leer un libro entero").
+2.  **Mi Huella**: En un folio, dibuja el contorno de tu mano con un color bonito. ¡Veremos cuánto ha crecido al final del curso!
+3.  **El Objeto Especial**: Dibuja en un papelito algo que te guste mucho hoy (tu juguete favorito, tu comida preferida o tu color del momento).
+4.  **Ceremonia de Cierre**: Meteremos todos los sobres en nuestra caja, la cerraremos con cinta de colores y el maestro la guardará en un sitio muy alto del aula.
 
 ```mermaid
-mindmap
-  root((Nuestro Mural))
-    Nosotros
-      Dibujos
-      Nombres
-      Superpoderes
-    Colores
-      Pinturas
-      Cartulinas
-    Equipo
-      Ayuda
-      Amistad
+graph LR
+    A[Nuestros Sueños] --> B(Cápsula del Tiempo)
+    C[Nuestras Huellas] --> B
+    D[Nuestros Deseos] --> B
+    B --> E{¡Abrir en Junio!}
 ```
 
+## Compromiso de Equipo
+
+Para que esta cápsula se llene de magia, todos prometemos:
+*   **Respetar** a los compañeros.
+*   **Esforzarnos** cada día un poquito más.
+*   **Cuidar** nuestro material y nuestra clase.
+
 :::tip ¡Misión cumplida!
-Cuando el mural esté colgado en la pared, ¡nuestra clase estará lista para empezar la aventura!
+Cuando la caja esté cerrada, ¡nuestra aventura de 2º habrá comenzado oficialmente! Ya somos un equipo unido.
 :::
 
-**¿Cómo te sientes hoy?**
-Dibuja una carita al final del mural que explique cómo te has sentido en tu primer día de 2º. ¡Estamos muy orgullosos de ti!
+**¿Cómo te sientes al empezar este viaje?**
+Escribe una palabra que resuma tu emoción hoy: **¡ALEGRÍA, NERVIOS, ILUSIÓN!**
+
+![Equipo de 2º](/img/2pri/clase_equipo_infantil_1778791753927.png)

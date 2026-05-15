@@ -1,46 +1,56 @@
 ---
-title: ¡Misión Cumplida! - Montamos nuestra Tienda
+title: ¡Misión Cumplida! - El Gran Mercado de 2º
 sidebar_position: 3
-description: Una actividad para jugar a ser vendedores y compradores en clase.
+description: Una actividad para jugar a ser vendedores y compradores en clase y practicar el cálculo mental.
 ---
 
-¡Ya eres un experto en el mercado! Ahora vamos a montar nuestra propia tienda en el aula.
+¡Ya eres un experto en el mercado! Ahora vamos a transformar nuestra aula en un **Mercado de Barrio** de verdad. ¡Prepara tu lista y tu monedero!
 
-## Situación de Aprendizaje: El Mercadillo de 2º
+## Situación de Aprendizaje: ¡Hoy montamos el Mercado!
 
-Hoy vamos a jugar por rincones a las tiendas.
+Vamos a trabajar en equipo para que nuestro mercado sea el mejor de toda Extremadura.
 
 ### ¿Qué necesitamos?
-*   Envases vacíos de casa (cajas de cereales, botellas de leche limpias, botes de yogur...).
-*   Dinero de juguete (puedes dibujarlo en papel y recortarlo).
-*   Etiquetas para poner los precios.
-*   Una caja de zapatos para usar de "Caja Registradora".
+*   **Productos**: Envases vacíos traídos de casa (cajas de cereales, botellas de leche limpias, botes de yogur...).
+*   **Dinero Mágico**: Monedas y billetes dibujados y recortados por nosotros.
+*   **Carteles**: Etiquetas para los precios y un letrero con el nombre de nuestra tienda.
+*   **Bolsas de tela**: ¡Para ser compradores ecológicos!
 
-### Instrucciones paso a paso
+### Instrucciones para la Misión
 
-1.  **Montaje**: Coloca los envases en una mesa como si fuera un mostrador.
-2.  **Precios**: Ponle una etiqueta a cada cosa (ejemplo: Leche 1€, Galletas 2€).
-3.  **Roles**: Unos alumnos serán los **vendedores** (tienen que cobrar y dar el cambio) y otros los **compradores** (tienen una lista y dinero).
-4.  **¡A comprar!**: Los compradores eligen qué quieren y pagan en la caja.
+1.  **Montaje del Puesto**: Dividid la clase en 3 puestos: **Frutería**, **Panadería** y **Librería**. Colocad los productos y ponedles precios (¡intentad que no sean muy caros!).
+2.  **Reparto de Roles**: Unos seréis los **Mercaderes** (atender, pesar y cobrar) y otros los **Clientes** (elegir productos y pagar con el dinero exacto).
+3.  **La Lista de la Compra**: Cada cliente recibirá una misión (ejemplo: *"Compra una barra de pan y dos manzanas con un billete de 5€"*).
+4.  **Cálculo Final**: Al terminar, los mercaderes deben contar cuánto dinero han ganado y los clientes cuánto les ha sobrado.
 
 ```mermaid
 mindmap
-  root((Nuestra Tienda))
-    Vendedores
-      Cobrar
-      Poner precios
-    Compradores
-      Elegir
-      Pagar
-    Cosas
-      Cajas
-      Botes
-      Dinero
+  root((Nuestro Mercado))
+    Puestos
+      Frutas de la Dehesa
+      Pan del Horno
+      Libros de Aventuras
+    Habilidades
+      Sumar precios
+      Dar el cambio
+      Hablar con respeto
+    Materiales
+      Envases reciclados
+      Dinero de papel
 ```
 
+## El Cliente del Mes
+
+Para ser el mejor cliente, recuerda:
+*   **Saludar** al llegar al puesto.
+*   **Hacer la cola** con paciencia si hay otros compañeros.
+*   **Revisar las vueltas** antes de marcharte.
+
 :::tip ¡Misión cumplida!
-¡No olvides decir siempre "por favor" y "gracias" al comprar! La educación es el mejor pago.
+¡Enhorabuena, equipo! Habéis demostrado que las matemáticas son muy útiles para la vida real. ¡Mañana cambiaremos los papeles para que todos seáis vendedores!
 :::
 
-**Pregunta final:**
-¿Qué producto de Extremadura pondrías en el escaparate de tu tienda para que todo el mundo lo viera? ¡Dibújalo en un cartel publicitario!
+**¿Qué ha sido lo más difícil de comprar o vender?**
+Escribe el nombre de tu tienda favorita y dibuja una moneda de oro si has conseguido comprar todo lo de tu lista. ¡Buen trabajo!
+
+![Mercado Barrio](/img/2pri/mercado_barrio_infantil_extremadura_1778793862701.png)

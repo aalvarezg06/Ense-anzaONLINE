@@ -1,46 +1,60 @@
 ---
-title: ¡Aprendemos! - Los Animales
+title: ¡Aprendemos! - El Reino Animal
 sidebar_position: 1
-description: Descubrimos el maravilloso mundo animal, sus familias y sus hogares.
+description: Descubrimos el maravilloso mundo animal, sus familias, sus hogares y cómo protegerlos.
 ---
 
-¡El mundo está lleno de seres vivos increíbles! Desde la pequeña hormiga hasta la enorme ballena, todos los animales son especiales.
+¡El mundo está lleno de seres vivos increíbles! Desde la pequeña hormiga que trabaja en el patio hasta el águila que vuela sobre nuestras dehesas, todos los animales tienen una misión importante en la naturaleza.
 
 ![Mundo Animal](/img/2pri/animales_mundo_clasificacion_infantil_1778792493399.png)
 
-## ¿Cómo son los animales?
+## ¿Tienen huesos o no?
 
-Podemos agrupar a los animales según sus características:
+La primera forma de clasificar a los animales es mirando su "armadura" interna:
 
-*   **Vertebrados**: Tienen huesos y columna vertebral (como nosotros, los perros o los pájaros).
-*   **Invertebrados**: No tienen huesos (como las mariposas, los caracoles o las medusas).
+*   **Vertebrados**: Tienen un esqueleto interno con columna vertebral (como tú). Son los **Mamíferos, Aves, Peces, Reptiles y Anfibios**.
+*   **Invertebrados**: No tienen huesos. Algunos tienen una concha (caracol) o un caparazón duro (escarabajo), ¡y otros son blanditos como las medusas!
 
 ```mermaid
-graph TD
-    A[Animales] --> B(Vertebrados)
-    A --> C(Invertebrados)
-    B --> D[Mamíferos, Aves, Peces...]
-    C --> E[Insectos, Moluscos...]
+mindmap
+  root((Animales))
+    Vertebrados
+      Mamíferos
+      Aves
+      Peces
+      Reptiles
+      Anfibios
+    Invertebrados
+      Insectos
+      Moluscos
+      Arácnidos
 ```
 
-## Las Grandes Familias de Vertebrados
+## ¿Cómo nacen y qué comen?
 
-1.  **Mamíferos**: Nacen del vientre de su mamá y beben leche (ej: perro, gato, vaca).
-2.  **Aves**: Tienen plumas y nacen de huevos (ej: cigüeña, águila).
-3.  **Peces**: Viven en el agua, tienen escamas y aletas (ej: trucha, sardina).
-4.  **Reptiles**: Su piel tiene escamas duras y suelen arrastrarse (ej: lagartija, tortuga).
-5.  **Anfibios**: Pueden vivir en el agua y en la tierra (ej: rana, sapo).
+Cada animal tiene su propia forma de llegar al mundo y de alimentarse:
 
-## ¿Qué comen?
+### Según su nacimiento:
+*   **Vivíparos**: Nacen del vientre de su mamá (como los perros o los humanos).
+*   **Ovíparos**: Nacen de un huevo (como las gallinas o los cocodrilos).
 
-*   **Herbívoros**: Solo comen plantas y hierba (ej: caballo, conejo).
-*   **Carnívoros**: Comen carne de otros animales (ej: león, lobo).
-*   **Omnívoros**: Comen de todo, plantas y carne (ej: oso, cerdo).
+### Según su comida:
+*   **Herbívoros**: Comen plantas, frutas y semillas.
+*   **Carnívoros**: Se alimentan de otros animales.
+*   **Omnívoros**: ¡Comen de todo! (como el cerdo o el oso).
+
+## Animales de Extremadura
+
+Nuestra tierra es un paraíso para muchos animales. ¿Has visto alguna vez a estos?
+
+1.  **La Cigüeña Blanca**: Hace sus nidos en lo alto de las iglesias y torres.
+2.  **El Lince Ibérico**: Es un gato montés muy especial que vive en los montes de Extremadura. ¡Es un tesoro que debemos cuidar!
+3.  **El Buitre Negro**: Una de las aves más grandes que surcan nuestro cielo.
 
 :::info ¿Sabías que...?
-En Extremadura vive el **Lince Ibérico**, uno de los animales más bonitos y difíciles de ver del mundo. ¡Tenemos que protegerlo!
+¡Los animales se comunican! Los lobos aúllan, los pájaros cantan y las abejas bailan para decirles a sus compañeras dónde hay flores ricas.
 :::
 
-:::tip Truco
-Si quieres saber si un animal es mamífero, mira si tiene pelo y si sus bebés beben leche. ¡Casi nunca falla!
+:::tip Truco de Observador
+Si ves un animal en el campo, ¡no hagas ruido! Si te quedas muy quieto, podrás ver cómo se comporta en su hogar sin asustarlo.
 :::
