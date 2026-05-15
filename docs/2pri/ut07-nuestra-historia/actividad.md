@@ -55,4 +55,4 @@ Gracias a este museo, hemos descubierto que:
 **¿Cuál ha sido la historia más sorprendente que has escuchado hoy?**
 Escribe el nombre de tu compañero y su objeto. ¡La historia es fascinante!
 
-![Museo de Clase](/img/2pri/introduccion_2_primaria_1778791559864.png)
+![Museo de Clase](/img/2pri/bienvenida_segundo_primaria_1778791753927.png)

@@ -1,43 +1,59 @@
 ---
-title: ¡Practicamos! - Guardianes del Planeta
+title: ¡Practicamos! - Patrulla de Reciclaje
 sidebar_position: 2
-description: Actividades para practicar el reciclaje y repasar todo lo aprendido.
+description: Actividades para practicar el reciclaje, el ahorro de agua y repasar todo lo aprendido sobre el planeta.
 ---
 
-¡Es la última misión del curso! Vamos a demostrar que somos auténticos **Guardianes del Planeta**.
+¡Es la última misión del curso, Patrulla! Vamos a demostrar que somos auténticos **Héroes de la Naturaleza** y que sabemos cuidar de nuestro planeta.
 
-## Misión 1: ¡Al contenedor correcto!
+## Misión 1: El Código de Colores
 
-Dibuja una línea (o escribe el color) para llevar cada objeto a su contenedor:
+Para reciclar bien, hay que conocer los "contenedores mágicos". Une cada residuo con su color:
 
-*   **Caja de cereales** --------> Contenedor ______
-*   **Bote de mermelada** -------> Contenedor ______
-*   **Lata de refresco** --------> Contenedor ______
-*   **Periódico viejo** ---------> Contenedor ______
-
-:::info ¿Sabías que...?
-Las pilas y los móviles no van a los contenedores de la calle. ¡Hay que llevarlos a los **Puntos Limpios**!
-:::
-
-## Misión 2: Problemas de Reciclaje
-
-En el colegio hemos recogido **45 botellas** de plástico el lunes y **32 botellas** el martes.
-
-*   ¿Cuántas botellas hemos recogido en total?
-*   Operación: 45 + 32 = ______
-*   Resultado: Hemos salvado al planeta de ______ botellas.
+*   **Caja de galletas y periódicos** --------> Contenedor **AZUL**.
+*   **Botella de agua y lata de zumo** --------> Contenedor **AMARILLO**.
+*   **Frasco de colonia y bote de potito** --------> Contenedor **VERDE**.
+*   **Restos de manzana y cáscara de huevo** --------> Contenedor **MARRÓN**.
 
 ```mermaid
 graph LR
-    A[Lunes: 45] --> C[Total: ?]
-    B[Martes: 32] --> C
+    A[Residuo] --> B{¿Qué es?}
+    B -- Plástico/Metal --> C(Amarillo)
+    B -- Papel/Cartón --> D(Azul)
+    B -- Vidrio --> E(Verde)
+    B -- Comida --> F(Marrón)
 ```
 
-## Misión 3: Nuestro Mensaje
+:::info ¿Sabías que...?
+Las pilas y los móviles viejos no van a estos contenedores. ¡Tienen venenos para la Tierra! Hay que llevarlos al **Punto Limpio** de tu pueblo o ciudad.
+:::
 
-Escribe una frase corta para convencer a todo el mundo de que cuide la naturaleza.
-Ejemplo: *"¡Cuida la Tierra, es nuestra única casa!"*
+## Misión 2: Cuentas por el Planeta
 
-:::tip Truco
-Cierra el grifo mientras te cepillas los dientes. ¡Puedes ahorrar mucha agua cada día!
+En nuestro colegio hemos organizado una recogida de botellas de plástico para reciclar.
+
+*   El lunes recogimos **45 botellas**.
+*   El martes recogimos **32 botellas**.
+
+**¿Cuántas hemos salvado en total?**
+*   Operación: 45 + 32 = ______ botellas.
+
+**Si luego usamos 10 botellas para hacer macetas reutilizadas...**
+*   ¿Cuántas nos quedan para reciclar?
+*   Operación: ______ - 10 = ______ botellas.
+
+:::tip Truco de Ahorro
+Cierra el grifo mientras te enjabonas las manos. ¡Puedes ahorrar hasta 10 litros de agua cada vez! Eso son muchas botellas llenas.
+:::
+
+## Misión 3: Detective de la Naturaleza
+
+Observa tu patio o un parque cercano. ¿Qué cosas NO deberían estar allí?
+1.  ________________
+2.  ________________
+
+**Dibuja un cartel pequeño que diga: *"¡No tires ______ al suelo! El planeta es tu casa"*.**
+
+:::success ¡Entrenamiento Terminado!
+Has demostrado que tienes ojos de detective y corazón de guardián. ¡La Tierra está un poco más segura gracias a ti!
 :::

@@ -45,4 +45,4 @@ Cuando la caja esté cerrada, ¡nuestra aventura de 2º habrá comenzado oficial
 **¿Cómo te sientes al empezar este viaje?**
 Escribe una palabra que resuma tu emoción hoy: **¡ALEGRÍA, NERVIOS, ILUSIÓN!**
 
-![Equipo de 2º](/img/2pri/clase_equipo_infantil_1778791753927.png)
+![Equipo de 2º](/img/2pri/bienvenida_segundo_primaria_1778791753927.png)

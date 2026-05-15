@@ -1,44 +1,58 @@
 ---
-title: ¡Misión Cumplida! - Mi Invento Loco
-sidebar_position: 3
-description: Una actividad para imaginar y dibujar un invento que solucione un problema.
+title: ¡Practicamos! - Inventores en el Taller
+sidebar_position: 2
+description: Actividades para aprender sobre el reparto, la seguridad y el funcionamiento de las máquinas.
 ---
 
-¡Ya sabes mucho sobre máquinas! Ahora te toca a ti ser el inventor.
+¡Bienvenidos al Taller de Inventos! Aquí vamos a poner a prueba vuestro ingenio para descubrir cómo funcionan las máquinas y cómo podemos usar las matemáticas para repartir piezas.
 
-## Situación de Aprendizaje: ¡El Concurso de Inventos!
+## Misión 1: La Magia de Repartir (Iniciación a la División)
 
-Hoy vas a imaginar una máquina que no exista y que sirva para ayudar a alguien.
+A veces, para montar un invento, tenemos que repartir las piezas de forma justa. ¡A eso los matemáticos lo llaman **Dividir**!
 
-### ¿Qué necesitas?
-*   Un folio.
-*   Lápices de colores.
-*   ¡Muchas ganas de imaginar!
+### El Reto de las Pilas
+Tienes **12 pilas** mágicas y quieres poner el mismo número en **2 robots**. ¿Cuántas pilas le tocan a cada uno?
+*   Usa tus dedos o dibujos: Pon una pila para el Robot A, otra para el Robot B...
+*   Resultado: 12 repartido entre 2 son ______ pilas para cada uno.
 
-### Instrucciones paso a paso
+### El Reto de las Ruedas
+Tienes **8 ruedas** y quieres fabricar **2 coches**. ¿Cuántas ruedas llevará cada coche?
+*   Resultado: 8 repartido entre 2 son ______ ruedas.
 
-1.  **Piensa en un problema**: Por ejemplo: "Me da pereza hacer la cama" o "Mis juguetes siempre están desordenados".
-2.  **Dibuja tu solución**: Haz un dibujo de tu invento. Ponle cables, botones, luces... ¡lo que quieras!
-3.  **Ponle un nombre**: (ejemplo: "El Camahacedor 3000").
-4.  **¿Cómo funciona?**: Escribe una frase explicando qué hace cuando pulsas el botón rojo.
-
-```mermaid
-mindmap
-  root((Mi Invento))
-    Qué hace
-      Limpia solo
-      Vuela
-    Piezas
-      Pilas
-      Botones
-      Antenas
-    Nombre
-      Super-Invento
-```
-
-:::tip ¡Misión cumplida!
-¡Todos los grandes inventos empezaron siendo un dibujo en un papel! Quién sabe si el tuyo se fabricará algún día.
+:::info ¡Truco Matemático!
+Repartir es como "deshacer" una multiplicación. Si sabes que 2 x 6 = 12, ¡entonces sabes que 12 repartido entre 2 es 6!
 :::
 
-**Pregunta final:**
-¿Qué máquina de tu casa es la que más te gusta? ¿Por qué? ¡Dibuja a tu familia usando esa máquina!
+## Misión 2: ¿Máquina Simple o Compuesta?
+
+Mira estos objetos de tu mochila y de tu casa. Escribe una **S** si es Simple o una **C** si es Compuesta:
+
+1.  **Lápiz**: ______
+2.  **Sacapuntas**: ______ (¡Cuidado, tiene una cuchilla!)
+3.  **Tablet**: ______
+4.  **Pinza de la ropa**: ______
+5.  **Microondas**: ______
+
+```mermaid
+graph LR
+    A[Energía] --> B{¿Cómo funciona?}
+    B -- Músculos --> C[Máquina Simple]
+    B -- Enchufe/Pilas --> D[Máquina Compuesta]
+```
+
+## Misión 3: Seguridad ante todo
+
+Las máquinas nos ayudan, pero algunas pueden ser peligrosas. Une el peligro con el consejo:
+
+*   **Enchufes** ----------------> No tocarlos con las manos mojadas.
+*   **Tijeras** -----------------> ______
+*   **Cocina de gas** ----------> ______
+*   **Herramientas** -----------> ______
+
+:::tip Regla de Oro
+Si una máquina hace un ruido extraño o huele a quemado, ¡no la toques! Avisa siempre a un adulto.
+:::
+
+:::success ¡Taller Completado!
+Has demostrado que sabes usar las máquinas con inteligencia y que eres un hacha repartiendo. ¡El próximo invento del siglo podría ser tuyo!
+:::

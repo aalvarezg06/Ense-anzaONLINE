@@ -6,7 +6,7 @@ description: Descubrimos cómo las máquinas y los inventos nos hacen la vida m�
 
 ¡El ser humano es un gran inventor! Desde que el mundo es mundo, hemos buscado formas de hacer las cosas más rápido y con menos esfuerzo. A esos objetos que nos ayudan los llamamos **máquinas**.
 
-![Inventos y Máquinas](/img/2pri/inventos_maquinas_infantil_1778793862701.png)
+![Inventos y Máquinas](/img/2pri/bienvenida_segundo_primaria_1778791753927.png)
 
 ## ¿Cómo son las máquinas?
 

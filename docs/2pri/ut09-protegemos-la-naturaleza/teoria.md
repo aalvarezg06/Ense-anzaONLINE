@@ -1,48 +1,65 @@
 ---
-title: ¡Aprendemos! - Protegemos la naturaleza
+title: ¡Aprendemos! - Guardianes de la Tierra
 sidebar_position: 1
-description: Aprendemos la importancia de cuidar nuestro planeta y cómo ser pequeños héroes de la naturaleza.
+description: Aprendemos la importancia de cuidar nuestro planeta, el ciclo del agua y cómo ser pequeños héroes de la naturaleza.
 ---
 
-¡Nuestro planeta es nuestro hogar y tenemos que cuidarlo! La Tierra nos da aire para respirar, agua para beber y comida para crecer. ¿Sabes cómo podemos ayudarle?
+¡La Tierra es nuestro único hogar y nos necesita! Como niños y niñas de Extremadura, tenemos la misión de cuidar nuestros campos, nuestros ríos y a todos los seres vivos que comparten el mundo con nosotros.
 
-## Los Tesoros de Extremadura
+![Protegemos la Naturaleza](/img/2pri/otono_extremadura_dehesa_1778792285285.png)
 
-En nuestra comunidad tenemos paisajes maravillosos que debemos proteger:
+## El Tesoro Líquido: El Agua
 
-*   **Parque Nacional de Monfragüe**: Un sitio lleno de buitres y cigüeñas negras.
-*   **Valles y Ríos**: Como el río Guadiana o el río Tajo.
-*   **La Dehesa**: El hogar de muchos animales.
+El agua es vida. Sin ella, no habría plantas, ni animales, ni personas. Pero el agua dulce es escasa, por eso debemos ser **Ahorradores de Agua**:
+
+*   **En casa**: Cierra el grifo mientras te cepillas los dientes.
+*   **En la ducha**: ¡Dúchate rápido! No hace falta estar horas bajo el agua.
+*   **En el campo**: No ensucies los ríos ni las charcas donde beben los animales.
 
 ```mermaid
 graph TD
-    A[Naturaleza] --> B(Agua)
-    A --> C(Aire)
-    A --> D(Seres Vivos)
-    B --> E[No malgastar]
-    C --> F[No contaminar]
-    D --> G[Respetar animales y plantas]
+    A[Agua en Extremadura] --> B(Embalses)
+    A --> C(Ríos: Tajo y Guadiana)
+    B --> D[Para beber y regar]
+    C --> E[Hogar de peces y aves]
 ```
 
-## La Regla de las 3 ERRES
+## El Código Secreto de las 3R
 
-Para ser un guardián de la naturaleza, recuerda estas tres palabras:
+¿Quieres ser un superhéroe de la naturaleza? Solo tienes que seguir este código:
 
-1.  **Reducir**: Usar menos cosas (ej: apagar la luz si no la usas).
-2.  **Reutilizar**: Volver a usar las cosas antes de tirarlas (ej: usar un bote de cristal para guardar lápices).
-3.  **Reciclar**: Poner cada residuo en su contenedor.
+1.  **Reducir**: Es lo más importante. ¡Compra solo lo que necesites! Si usas menos bolsas de plástico, la Tierra estará más contenta.
+2.  **Reutilizar**: Antes de tirar algo a la basura, piensa: *"¿Puedo hacer algo divertido con esto?"*. ¡Una caja de zapatos puede ser un cohete!
+3.  **Reciclar**: Cuando algo ya no sirve para nada, llévalo a su contenedor mágico.
 
-## ¿Dónde va cada cosa?
+```mermaid
+mindmap
+  root((Las 3 Erres))
+    Reducir
+      Menos plástico
+      Menos luz
+      Menos agua
+    Reutilizar
+      Manualidades
+      Ropa heredada
+      Botes para lápices
+    Reciclar
+      Azul: Papel
+      Amarillo: Plástico
+      Verde: Vidrio
+```
 
-*   **Contenedor Azul**: Papel y cartón.
-*   **Contenedor Amarillo**: Envases de plástico, latas y briks.
-*   **Contenedor Verde**: Vidrio (botellas, botes).
-*   **Contenedor Marrón**: Restos de comida (orgánico).
+## Cuidamos Extremadura
+
+Nuestra región tiene sitios increíbles como el **Valle del Jerte** o las **Villuercas**. Cuando los visitemos, debemos recordar:
+*   **No arrancar flores**: Son la comida de las abejas y las mariposas.
+*   **No hacer fuego**: Para evitar incendios que quemen los árboles.
+*   **Caminar por los senderos**: Para no pisar los nidos de los pajaritos.
 
 :::info ¿Sabías que...?
-Si reciclamos papel, ¡evitamos que se corten muchos árboles! Cada árbol que salvamos nos ayuda a tener aire más limpio.
+Las plantas fabrican el oxígeno que respiramos. ¡Son como las fábricas de aire limpio del planeta! Cuantos más árboles plantemos, mejor respiraremos todos.
 :::
 
-:::tip Truco
-Cuando vayas de excursión, ¡deja el campo mejor de como lo encontraste! Recoge siempre tu basura.
+:::tip Misión Diaria
+Cada vez que veas una luz encendida en una habitación donde no hay nadie, ¡apágala! Estarás salvando energía y cuidando el futuro.
 :::

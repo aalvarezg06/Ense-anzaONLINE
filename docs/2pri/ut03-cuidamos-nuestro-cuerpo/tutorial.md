@@ -1,60 +1,56 @@
 ---
-title: ¡Practicamos! - Entrenamiento de Súper Salud
+title: ¡Practicamos! - Detectives de la Salud
 sidebar_position: 2
-description: Aprendemos a medir nuestro crecimiento y a organizar nuestro menú saludable.
+description: Actividades para medir nuestro crecimiento y aprender sobre hábitos saludables.
 ---
 
-¡Es hora de poner a prueba nuestra máquina! Vamos a entrenar para ser los más sanos de la clase.
+¡Es hora de pasar a la acción! Vamos a convertirnos en detectives para investigar cómo crece nuestro cuerpo y qué necesitamos para estar súper sanos.
 
 ## Misión 1: Mi Diario de Crecimiento
 
-Tu cuerpo cambia cada día porque te estás haciendo mayor. ¡Vamos a investigar cuánto!
+Saca tu cinta métrica y pide ayuda a un compañero o a tu profe.
 
-### Paso 1: El Estirón
-Con ayuda de un compañero y una cinta métrica, descubre tus medidas:
-*   **Mi altura actual:** ______ centímetros.
-*   **Mi peso aproximado:** ______ kilos.
+### Paso 1: Tomamos Medidas
+*   **Mi altura actual:** ______ cm.
 *   **Número de pie (talla):** ______ .
 
 ### Paso 2: Comparando Números
-¿Quién ha dado el estirón más grande? Compara tu altura con la de un amigo usando los signos **>** (mayor que) o **<** (menor que).
+¿Quién ha dado el estirón más grande? Compara tu altura con la de un amigo usando los signos **&gt;** (mayor que) o **&lt;** (menor que).
 
 :::info Ejemplo de Investigador
-Si Lucía mide 128 cm y Pedro mide 124 cm, escribimos: **128 > 124**.
+Si Lucía mide 128 cm y Pedro mide 124 cm, escribimos: **128 &gt; 124**.
 :::
 
 ## Misión 2: El Semáforo de la Comida
 
-No todos los alimentos nos dan la misma energía. Vamos a colocarlos en su sitio:
+Dibuja un semáforo y coloca estos alimentos en el color correcto:
 
-*   **Luz Verde (Siempre):** Frutas, verduras, legumbres, pescado.
-*   **Luz Amarilla (A veces):** Pasta, pan, carne, lácteos.
-*   **Luz Roja (Muy poco):** Bollería, chuches, refrescos con mucho azúcar.
-
-**Tu Reto:** Dibuja en tu cuaderno tu plato favorito pero cámbiale una cosa para que sea **más saludable**. 
-
-## Misión 3: El Ritual de la Limpieza
-
-Lavar las manos es como poner un escudo contra los virus. ¿Sabes hacerlo bien?
+*   **ROJO (Poco):** Caramelos, patatas fritas, refrescos.
+*   **AMARILLO (A veces):** Carne, pasta, pan.
+*   **VERDE (Mucho):** Manzanas, lechuga, pescado, agua.
 
 ```mermaid
-graph LR
-    A[Agua] --> B[Jabón]
-    B --> C[Frotar 20 seg]
-    C --> D[Aclarar]
-    D --> E[Secar bien]
+graph TD
+    A[Semáforo Saludable] --> B(Rojo: ¡Para!)
+    A --> C(Amarillo: ¡Atención!)
+    A --> D(Verde: ¡Adelante!)
+    B --> E[Gominolas]
+    C --> F[Macarrones]
+    D --> G[Fruta y Verdura]
 ```
 
-**Ordena estos pasos:**
-1. [ ] Echarse jabón y frotar palmas y dedos.
-2. [ ] Mojarse las manos con agua limpia.
-3. [ ] Secarse con una toalla limpia o papel.
-4. [ ] Aclararse con agua para quitar la espuma.
+## Misión 3: El Ritual de Limpieza
 
-:::tip Truco de Salud
-Para que tus ojos no se cansen, intenta no mirar pantallas (móvil, tablet o TV) antes de irte a dormir. ¡Lee un cuento mejor!
+Ordena los pasos para lavarte bien las manos (escribe 1, 2, 3 y 4):
+*   ( ) Secarse con la toalla.
+*   ( ) Ponerse jabón y frotar.
+*   ( ) Mojarse las manos.
+*   ( ) Aclarar con mucha agua.
+
+:::tip Truco de Superhéroe
+¡Canta tu canción favorita mientras te lavas las manos! Así te asegurarás de que el tiempo es suficiente para espantar a todos los virus.
 :::
 
-:::success ¡Entrenamiento Completado!
-Has aprendido a cuidar tu cuerpo y a elegir lo mejor para ti. ¡Eres un campeón de la salud!
+:::success ¡Misión Cumplida!
+¡Has completado tu entrenamiento de Detective de la Salud! Ahora ya sabes cómo cuidar tu cuerpo para que crezca fuerte y sano.
 :::
