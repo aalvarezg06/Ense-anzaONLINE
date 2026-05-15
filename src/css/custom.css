@@ -28,3 +28,64 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+/* Primary Education (Kids) Styles */
+.primary-edu-card {
+  border-radius: 20px;
+  padding: 20px;
+  margin-bottom: 20px;
+  border: 3px solid #ffde59;
+  background-color: #fffdf2;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  transition: transform 0.2s;
+}
+
+.primary-edu-card:hover {
+  transform: scale(1.02);
+}
+
+.primary-edu-title {
+  color: #ff5757;
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+}
+
+.primary-edu-badge {
+  background-color: #7ed957;
+  color: white;
+  padding: 5px 15px;
+  border-radius: 50px;
+  font-weight: bold;
+}
+
+/* Admonitions for kids */
+.alert--info {
+  border-left-color: #38b6ff;
+  background-color: #e1f5fe;
+}
+
+.alert--success {
+  border-left-color: #7ed957;
+  background-color: #f1f8e9;
+}
+
+.alert--warning {
+  border-left-color: #ffde59;
+  background-color: #fff9c4;
+}
+
+/* Big friendly buttons */
+.button-fun {
+  background-color: #ff5757;
+  color: white !important;
+  border-radius: 50px;
+  padding: 10px 25px;
+  font-weight: bold;
+  text-decoration: none !important;
+  display: inline-block;
+  margin: 10px 0;
+  border: none;
+  cursor: pointer;
+}
+
+.button-fun:hover {
+  background-color: #ff3131;
+}

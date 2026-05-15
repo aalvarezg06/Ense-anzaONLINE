@@ -2,7 +2,7 @@
   "label": "2º de Primaria (Extremadura)",
   "position": 6,
   "link": {
-    "type": "generated-index",
-    "description": "Materiales educativos para el segundo curso de Educación Primaria adaptados al currículo de la Comunidad Autónoma de Extremadura (LOMLOE)."
+    "type": "doc",
+    "id": "2pri/introduccion"
   }
 }

@@ -6,7 +6,7 @@ import Link from '@docusaurus/Link';
 const FeatureList = [
   {
     title: '2º Primaria',
-    link: '/docs/2pri/ut01-mi-cole-y-yo/teoria',
+    link: '/docs/2pri/introduccion',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
