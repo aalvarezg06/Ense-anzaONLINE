@@ -1,45 +1,58 @@
 ---
-title: ¡Aprendemos! - Nuestra historia
+title: ¡Aprendemos! - Viaje en la Máquina del Tiempo
 sidebar_position: 1
-description: Viajamos al pasado para conocer cómo vivían nuestros abuelos y cómo ha cambiado el mundo.
+description: Viajamos al pasado para conocer cómo vivían nuestros antepasados y cómo ha cambiado Extremadura.
 ---
 
-¿Alguna vez te has preguntado cómo era el mundo cuando tus abuelos eran pequeños? ¡Hoy vamos a usar nuestra **máquina del tiempo**!
+¿Alguna vez te has preguntado cómo era tu calle cuando tus abuelos tenían tu edad? ¡Hoy vamos a subirnos a nuestra **máquina del tiempo** para descubrir que el mundo siempre está cambiando!
 
-## El Paso del Tiempo
+## ¿Qué es el Tiempo?
 
-Todo cambia con el tiempo. Las personas crecemos, los árboles se hacen grandes y las ciudades cambian sus edificios.
+El tiempo es como un río que siempre corre hacia adelante. Se divide en tres momentos:
 
-*   **Pasado**: Lo que ya pasó (ayer, el año pasado, cuando naciste).
-*   **Presente**: Lo que pasa ahora mismo.
-*   **Futuro**: Lo que pasará después (mañana, cuando seas mayor).
+*   **Pasado**: Lo que ya ocurrió. Puede ser hace un minuto o hace mil años (como cuando los romanos vivían en Mérida).
+*   **Presente**: Es el ahora mismo. Estás leyendo esta página.
+*   **Futuro**: Lo que todavía no ha pasado. ¿Qué quieres ser de mayor?
 
 ```mermaid
 graph LR
-    A[Pasado] --> B[Presente]
-    B --> C[Futuro]
+    A[Pasado: Antes] --> B[Presente: Ahora]
+    B --> C[Futuro: Después]
 ```
 
-## Antes y Ahora
+## Así cambiamos: El Árbol de la Familia
 
-Hace muchos años, las cosas eran muy diferentes:
+Todos venimos de una familia que tiene mucha historia. Para no liarnos, usamos el **Árbol Genealógico**. Es como un mapa de nuestros antepasados:
 
-1.  **Transporte**: Antes se usaban carros con caballos, ¡ahora tenemos coches eléctricos y trenes rápidos!
-2.  **Comunicación**: No había móviles. La gente se escribía cartas que tardaban días en llegar.
-3.  **Juegos**: En lugar de videojuegos, se jugaba al trompo, a las canicas o a la comba en la calle.
+```mermaid
+graph TD
+    A[Abuelos Paternos] --- C[Papá]
+    B[Abuelos Maternos] --- D[Mamá]
+    C --- E[YO]
+    D --- E
+    C --- F[Hermanos]
+    D --- F
+```
+
+## El Mundo de Nuestros Abuelos
+
+Hace muchos años, la vida en Extremadura era muy diferente a la de ahora:
+
+1.  **En la Cocina**: No había microondas. Se cocinaba con leña o en hornos de piedra. ¡El pan se hacía en casa!
+2.  **En la Escuela**: Las pizarras eran de piedra (pizarrines) y no había ordenadores ni tablets.
+3.  **En la Calle**: Había muy pocos coches. La gente usaba carros tirados por burros o mulos para ir al campo.
 
 :::info ¿Sabías que...?
-En Extremadura tenemos muchos **castillos** y **teatros romanos** (como el de Mérida). Son edificios de hace muchísimos años que nos cuentan cómo vivía la gente en el pasado.
+En muchos pueblos de nuestra región todavía podemos ver **Dólmenes**. Son monumentos de piedra de hace miles de años. ¡La gente del pasado los usaba para cosas muy importantes!
 :::
 
-## Nuestra Historia Familiar
+## Los Recuerdos del Pasado
 
-Cada uno de nosotros tiene una historia. Para conocerla, usamos el **Árbol Genealógico**:
+Podemos conocer la historia de tres formas:
+*   **Hablando**: Escuchando las historias de los mayores.
+*   **Viendo**: Mirando fotos antiguas o visitando museos.
+*   **Leyendo**: Buscando en libros o documentos antiguos.
 
-*   **Abuelos**: Los padres de tus padres.
-*   **Padres**: ¡Los que te cuidan!
-*   **Hermanos y Tú**: La parte más joven del árbol.
-
-:::tip Truco
-Si quieres saber algo increíble del pasado, ¡pregunta a tus abuelos! Son como libros de historia con patas.
+:::tip Truco de Historiador
+Si encuentras una foto antigua, fíjate en la ropa que llevaban. ¡Era muy diferente a la de ahora! Las fotos eran en blanco y negro porque todavía no se habían inventado los colores para las cámaras.
 :::
