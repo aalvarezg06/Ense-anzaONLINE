@@ -70,6 +70,34 @@ Cada unidad tiene **Teoría** (para aprender), un **Tutorial** (para practicar) 
 
 </div>
 
+<div className="row">
+
+<div className="col col--4">
+<div className="primary-edu-card">
+<h3 className="primary-edu-title">📖 Nuestra Historia</h3>
+<p>Viajamos en el tiempo para conocer el pasado.</p>
+<a className="button-fun" href="/docs/2pri/ut07-nuestra-historia/teoria">¡Ir ahora!</a>
+</div>
+</div>
+
+<div className="col col--4">
+<div className="primary-edu-card">
+<h3 className="primary-edu-title">⚙️ Inventos</h3>
+<p>Descubrimos cómo funcionan las máquinas.</p>
+<a className="button-fun" href="/docs/2pri/ut08-inventos-y-maquinas/teoria">¡Ir ahora!</a>
+</div>
+</div>
+
+<div className="col col--4">
+<div className="primary-edu-card">
+<h3 className="primary-edu-title">🌿 Naturaleza</h3>
+<p>Aprendemos a cuidar y proteger nuestro planeta.</p>
+<a className="button-fun" href="/docs/2pri/ut09-protegemos-la-naturaleza/teoria">¡Ir ahora!</a>
+</div>
+</div>
+
+</div>
+
 ---
 
 ## 🌟 Consejos para ser un gran alumno
