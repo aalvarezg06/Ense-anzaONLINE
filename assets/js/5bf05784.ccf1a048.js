@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkproyecto_doc=self.webpackChunkproyecto_doc||[]).push([["3557"],{8713(e){e.exports=JSON.parse('{"metadata":{"permalink":"/Ense-anzaONLINE/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

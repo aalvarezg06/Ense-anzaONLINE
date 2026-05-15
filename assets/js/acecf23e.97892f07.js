@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkproyecto_doc=self.webpackChunkproyecto_doc||[]).push([["3220"],{1912(o){o.exports=JSON.parse('{"blogBasePath":"/Ense-anzaONLINE/blog","blogTitle":"Blog","authorsListPath":"/Ense-anzaONLINE/blog/authors"}')}}]);
